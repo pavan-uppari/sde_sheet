@@ -1,15 +1,3 @@
-"""
-https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/
-https://leetcode.com/problems/pascals-triangle/
-
-#medium
-
-Problem Statement: 
-In Pascal’s triangle, each number is the sum of the two numbers directly above it as shown in the figure below:
-Given the number of rows n. Print the first n rows of Pascal’s triangle.
-"""
-
-
 class Solution:
     def generate(self, numRows: int) -> List[List[int]]:
         result = [[1]]

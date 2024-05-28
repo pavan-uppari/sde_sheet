@@ -1,13 +1,4 @@
-"""
-https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/
-https://leetcode.com/problems/sort-colors/
-
-#medium
-"""
-
-#check again
-
-
+# TODO check again
 class Solution:
     def sortColors(self, nums: List[int]) -> None:
 
