@@ -34,8 +34,7 @@ theme:
   logo: 'logo-white.svg'
   favicon: 'favicon.png'
 markdown_extensions:
-  - markdown_include.include:
-      base_path: /Users/uppari.kalyan/Library/CloudStorage/OneDrive-MitsogoInc/sde_sheet
+  - markdown_include.include
   - pymdownx.details
   - pymdownx.superfences
   - pymdownx.highlight:
