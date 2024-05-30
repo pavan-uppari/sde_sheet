@@ -1,11 +1,3 @@
-"""
-https://takeuforward.org/data-structure/rotate-image-by-90-degree/
-https://leetcode.com/problems/rotate-image/
-
-#medium
-"""
-
-
 #Using extra memory approach
 def method(matrix):
     """

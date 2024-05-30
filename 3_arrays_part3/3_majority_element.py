@@ -1,11 +1,3 @@
-"""
-https://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/
-https://leetcode.com/problems/majority-element/
-
-#easy
-"""
-
-
 # Cancelling out if count if zero. If it is majority element, count won't become zero (won't be cancelled out)
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:

@@ -1,19 +1,3 @@
-"""
-https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/
-https://leetcode.com/problems/search-a-2d-matrix/
-
-#medium
-"""
-
-
-"""
-Approach1 ->
-1. Iterate through each row and check whether target can exist in that row or not
-2. If yes, do a binary search
-
-Time Complexity -> O(n + logm)
-"""
-
 class Solution:
     def searchMatrix(self, matrix: list[list[int]], target: int) -> bool:
         for row in matrix:
