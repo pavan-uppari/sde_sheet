@@ -49,4 +49,8 @@ markdown_extensions:
 nav:
   - SDE Sheet:
     - Welcome: index.md
-    - Arrays: arrays/arrays.md
+    - Arrays: 
+      - Part1: arrays/arrays1.md
+      - Part2: arrays/arrays2.md
+      - Part3: arrays/arrays3.md
+      - Part4: arrays/arrays4.md

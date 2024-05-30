@@ -1,10 +1,3 @@
-"""
-https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/
-https://leetcode.com/problems/merge-sorted-array/
-
-#medium
-"""
-
 #Check another approach - Using gap method
 
 class Solution:

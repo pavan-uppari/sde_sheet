@@ -1,10 +1,3 @@
-"""
-https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/
-https://leetcode.com/problems/merge-intervals/
-
-#medium
-"""
-
 class Solution:
     def merge(self, nums: List[List[int]]) -> List[List[int]]:
         """
