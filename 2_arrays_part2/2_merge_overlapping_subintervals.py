@@ -8,10 +8,9 @@ class Solution:
         """
         nums.sort()
         res = [nums[0]]
-        for i in range(1,len(nums)):
+        for i in range(1, len(nums)):
             if res[-1][-1] >= nums[i][0]:
                 res[-1] = [res[-1][0], max(res[-1][1], nums[i][1])]
             else:
                 res.append(nums[i])
         return res
-        

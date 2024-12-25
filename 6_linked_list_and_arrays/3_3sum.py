@@ -5,7 +5,7 @@ class Solution:
         n = len(nums)
         for i in range(n):
             seen = set()
-            for j in range(i+1, n):
+            for j in range(i + 1, n):
                 required_num = 0 - nums[i] - nums[j]
                 if required_num in seen:
                     res.add((nums[i], nums[j], required_num))
@@ -19,16 +19,15 @@ class Solution:
         res = set()
         n = len(nums)
         for i in range(n):
-            left, right = i+1, n-1
+            left, right = i + 1, n - 1
             while left < right:
                 curr_sum = nums[i] + nums[left] + nums[right]
                 if not curr_sum:
                     res.add((nums[i], nums[left], nums[right]))
-                    left +=1
-                    right -=1
+                    left += 1
+                    right -= 1
                 elif curr_sum > 0:
-                    right -=1
+                    right -= 1
                 else:
                     left += 1
         return res
-        

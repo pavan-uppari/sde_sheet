@@ -9,4 +9,3 @@ class Solution:
             curr_sum = max(item, curr_sum + item)
             maxi_sum = max(maxi_sum, curr_sum)
         return maxi_sum
-        

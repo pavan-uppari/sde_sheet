@@ -7,15 +7,15 @@ class Solution:
 
     def binary_search(self, row, target) -> bool:
         n = len(row)
-        low, high = 0, n-1
+        low, high = 0, n - 1
         while low <= high:
             mid = (low + high) // 2
             if row[mid] == target:
                 return True
             elif row[mid] < target:
-                low = mid+1
+                low = mid + 1
             else:
-                high = mid-1
+                high = mid - 1
         return False
 
 
@@ -30,10 +30,10 @@ Time Complexity -> O(logn + logm)
 class Solution:
     def searchMatrix(self, matrix: List[List[int]], target: int) -> bool:
         n, m = len(matrix), len(matrix[0])
-        low, high = 0, m*n - 1
+        low, high = 0, m * n - 1
         while low <= high:
             mid = (low + high) // 2
-            r,c = mid//m, mid%m
+            r, c = mid // m, mid % m
             if matrix[r][c] == target:
                 return True
             elif matrix[r][c] < target:
@@ -41,6 +41,3 @@ class Solution:
             else:
                 high = mid - 1
         return False
-
-
-            

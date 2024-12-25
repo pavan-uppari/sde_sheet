@@ -18,12 +18,14 @@ class Solution:
                 c2 -= 1
         c1 = c2 = 0
         for num in nums:
-            if num == e1: c1 +=1
-            elif num == e2: c2 +=1
+            if num == e1:
+                c1 += 1
+            elif num == e2:
+                c2 += 1
         n = len(nums)
         res = []
-        if e1 is not None and c1 > n//3:
+        if e1 is not None and c1 > n // 3:
             res.append(e1)
-        if e2 is not None and c2 > n//3:
+        if e2 is not None and c2 > n // 3:
             res.append(e2)
         return res
