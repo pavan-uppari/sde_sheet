@@ -8,8 +8,7 @@ class Solution:
                 curr = num
                 count = 1
             elif num == curr:
-                count+=1
+                count += 1
             else:
-                count -=1
+                count -= 1
         return curr
-        

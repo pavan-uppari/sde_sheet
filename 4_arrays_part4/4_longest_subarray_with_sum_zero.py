@@ -1,15 +1,15 @@
 def solution(nums: list[int]) -> int:
-
-    d: int[int] = {0:-1}
+    d: int[int] = {0: -1}
     sum = 0
     res = 0
-    for i,num in enumerate(nums):
-        sum+=num
+    for i, num in enumerate(nums):
+        sum += num
         if sum in d:
-            res = max(res, i-d[sum])
+            res = max(res, i - d[sum])
         else:
             d[sum] = i
     return res
+
 
 assert solution([9, -3, 3, -1, 6, -5]) == 5
 assert solution([6, -2, 2, -8, 1, 7, 4, -10]) == 8

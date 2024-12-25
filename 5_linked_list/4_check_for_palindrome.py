@@ -19,4 +19,3 @@ class Solution:
             curr1 = curr1.next
             curr2 = curr2.next
         return True
-        

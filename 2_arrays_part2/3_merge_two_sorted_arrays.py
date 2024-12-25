@@ -1,4 +1,5 @@
-#Check another approach - Using gap method
+# Check another approach - Using gap method
+
 
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
@@ -11,15 +12,13 @@ class Solution:
         """
         i = j = 0
         zeroes_removed = 0
-        while i< m+n and j<n:
+        while i < m + n and j < n:
             if nums1[i] > nums2[j]:
                 zeroes_removed += 1
                 nums1.pop()
                 nums1.insert(i, nums2[j])
-                j+=1
-            i+=1
-        for i in range(m+zeroes_removed, m+n):
+                j += 1
+            i += 1
+        for i in range(m + zeroes_removed, m + n):
             nums1[i] = nums2[j]
-            j+=1
-    
-        
+            j += 1

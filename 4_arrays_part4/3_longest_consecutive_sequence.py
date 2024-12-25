@@ -2,7 +2,8 @@ class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         nums.sort()
         n = len(nums)
-        if n <= 1:return n
+        if n <= 1:
+            return n
 
         res = 1
         curr_count = 1
@@ -21,18 +22,18 @@ class Solution:
 
         return max(res, curr_count)
 
+
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         res = 0
         temp = {i: 1 for i in nums}
         for i in nums:
-            if i-1 in temp or i+res not in temp:
+            if i - 1 in temp or i + res not in temp:
                 continue
             c = 1
             e = i
-            while e+1 in temp:
-                c+=1
-                e+=1
-            res = max(res , c)
+            while e + 1 in temp:
+                c += 1
+                e += 1
+            res = max(res, c)
         return res
-
