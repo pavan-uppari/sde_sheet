@@ -1,5 +1,4 @@
 class Solution:
-    # Function to get the maximum total value in the knapsack.
     def fractionalknapsack(self, val, wt, capacity):
         val, wt = zip(*sorted(zip(val, wt), key=lambda x: x[0] / x[1], reverse=True))
         res = 0
