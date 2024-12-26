@@ -9,6 +9,8 @@
 
 Links: [TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/) [LeetCode](https://leetcode.com/problems/rotate-image/)<br>
 
+---
+
 ## Merge Overlapping Sub Intervals
 
 **Problem Statement**: Given an array of intervals, merge all the overlapping intervals and return an array of non-overlapping intervals.<br>
@@ -18,6 +20,8 @@ Links: [TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/)
 ```
 Links: [TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/) [LeetCode](https://leetcode.com/problems/merge-intervals/)<br>
 
+---
+
 ## Merge 2 sorted arrays without extra space
 
 **Problem Statement**: Given two sorted arrays arr1[] and arr2[] of sizes n and m in non-decreasing order. Merge them in sorted order. Modify arr1 so that it contains the first N elements and modify arr2 so that it contains the last M elements.<br>
@@ -26,6 +30,8 @@ Links: [TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-inter
 {!02_arrays_part2/3_merge_two_sorted_arrays.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/) [LeetCode](https://leetcode.com/problems/merge-sorted-array/)<br>
+
+---
 
 ## Duplicate in array of n+1 integers
 
@@ -44,6 +50,8 @@ Please check  [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula an
 ```
 Links: [TUF](https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)<br>
 
+---
+
 ## Repeating and Missing number
 
 **Problem Statement**: You are given a read-only array of N integers with values also in the range [1, N] both inclusive. Each integer appears exactly once except A which appears twice and B which is missing. The task is to find the repeating and missing numbers A and B where A repeats twice and B is missing.<br>
@@ -60,6 +68,8 @@ Please check [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula and
 {!02_arrays_part2/5_repeating_and_missing_number.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)<br>
+
+---
 
 ## Inversion of Array
 

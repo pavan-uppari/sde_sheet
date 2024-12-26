@@ -13,6 +13,8 @@
 
 Links: [TUF](https://takeuforward.org/data-structure/rotate-a-linked-list/) [LeetCode](https://leetcode.com/problems/rotate-list/)<br>
 
+---
+
 ## 3Sum
 
 **Problem Statement**: Given an array of N integers, your task is to find unique triplets that add up to give a sum of zero. In short, you need to return an array of all the unique triplets [arr[a], arr[b], arr[c]] such that i!=j, j!=k, k!=i, and their sum is equal to zero.<br>
@@ -32,6 +34,8 @@ Links: [TUF](https://takeuforward.org/data-structure/rotate-a-linked-list/) [Lee
 
 Links: [TUF](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/) [LeetCode](https://leetcode.com/problems/3sum/)<br>
 
+---
+
 ## Remove duplicates from sorted array
 
 **Problem Statement**: Given an integer array sorted in non-decreasing order, remove the duplicates in place such that each unique element appears only once. The relative order of the elements should be kept the same.<br>
@@ -45,6 +49,8 @@ Links: [TUF](https://takeuforward.org/data-structure/3-sum-find-triplets-that-ad
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)<br>
+
+---
 
 ## Max Consecutive Ones
 

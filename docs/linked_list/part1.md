@@ -8,6 +8,8 @@
 
 Links: [TUF](https://takeuforward.org/data-structure/reverse-a-linked-list/) [LeetCode](https://leetcode.com/problems/reverse-linked-list/)<br>
 
+---
+
 ## Middle of a Linked List
 
 **Problem Statement**: Given the head of a linked list of integers, determine the middle node of the linked list. However, if the linked list has an even number of nodes, return the second middle node.<br>
@@ -20,6 +22,8 @@ Links: [TUF](https://takeuforward.org/data-structure/reverse-a-linked-list/) [Le
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/) [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/description/)<br>
+
+---
 
 ## Remove nth node from end
 
@@ -36,6 +40,8 @@ Links: [TUF](https://takeuforward.org/data-structure/find-middle-element-in-a-li
 
 Links: [TUF](https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/) [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)<br>
 
+---
+
 ## Add 2 Numbers
 
 **Problem Statement**: Given the heads of two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.<br>
@@ -48,6 +54,8 @@ Links: [TUF](https://takeuforward.org/data-structure/remove-n-th-node-from-the-e
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/) [LeetCode](https://leetcode.com/problems/add-two-numbers/)<br>
+
+---
 
 ## Delete the given node
 

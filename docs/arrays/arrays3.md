@@ -15,6 +15,8 @@ Time Complexity -> O(n + logm)
 ```
 Links: [TUF](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/)[LeetCode](https://leetcode.com/problems/search-a-2d-matrix/)<br>
 
+---
+
 ## Pow(x,n)
 
 **Problem Statement**: Given a double x and integer n, calculate x raised to power n. Basically Implement pow(x, n).<br>
@@ -44,6 +46,8 @@ SC - O(1)
 ```
 Links: [TUF](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/)[LeetCode](https://leetcode.com/problems/powx-n/)<br>
 
+---
+
 ## Majority Element (>n/2 times)
 
 **Problem Statement**: Given an array of N integers, write a program to return an element that occurs more than N/2 times in the given array. You may consider that such an element always exists in the array.<br>
@@ -56,6 +60,8 @@ Links: [TUF](https://takeuforward.org/data-structure/implement-powxn-x-raised-to
 Links: [TUF](ttps://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/) [LeetCode](https://leetcode.com/problems/majority-element/)<br>
 
 
+
+---
 
 ## Majority Element (>n/3 times)
 
@@ -76,6 +82,8 @@ Space - O(1)
 ```
 Links: [TUF](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/) [LeetCode](https://leetcode.com/problems/majority-element-ii/)<br>
 
+---
+
 ## Grid Unique Paths
 
 **Problem Statement**: Given a matrix m X n, count paths from left-top to the right bottom of a matrix with the constraints that from each cell you can either only move to the rightward direction or the downward direction.<br>
@@ -88,6 +96,8 @@ Links: [TUF](https://takeuforward.org/data-structure/majority-elementsn-3-times-
 
 Links: [TUF](https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/) [LeetCode](https://leetcode.com/problems/unique-paths/)<br>
 
+
+---
 
 ## Reverse Pairs
 
