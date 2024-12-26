@@ -8,7 +8,6 @@ class Solution:
         return list(self.res)
 
     def helper(self, ind=0, curr=[], curr_sum=0):
-
         if curr_sum == self.target:
             self.res.add(tuple(curr[:]))
             return
@@ -17,12 +16,10 @@ class Solution:
             return
 
         curr.append(self.candidates[ind])
-        self.helper(ind+1, curr, curr_sum+self.candidates[ind])
+        self.helper(ind + 1, curr, curr_sum + self.candidates[ind])
 
         curr.pop()
-        for i in range(ind+1, self.n):
+        for i in range(ind + 1, self.n):
             if self.candidates[i] != self.candidates[ind]:
                 self.helper(i, curr, curr_sum)
                 break
-        
-        
