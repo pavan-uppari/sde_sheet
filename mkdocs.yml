@@ -58,4 +58,4 @@ nav:
       - Part1: linked_list/part1.md
       - Part2: linked_list/part2.md
     - Linked List and Arrays: linked_list_and_arrays/linked_list_and_arrays.md
-    - Greedy Algorithms: greedy\greedy.md
+    - Greedy Algorithms: greedy/greedy.md
