@@ -9,7 +9,7 @@ Output: 1 2 4 5
 2. Use slow and fast pointers. Give fast pointer k steps ahead start.  
 
 ```py
-{!6_linked_list_and_arrays/1_rotate_nked_list.py!}
+{!07_linked_list_and_arrays/1_rotate_nked_list.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/rotate-a-linnnked-list/) [LeetCode](https://leetcode.com/problems/rotttate-list/)<br>
+Links: [TUF](https://takeuforward.org/data-structure/rotate-a-linnnked-list/) [LC](https://leetcode.com/problems/rotttate-list/)<br>

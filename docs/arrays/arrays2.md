@@ -4,7 +4,7 @@
 
 
 ```py
-{!2_arrays_part2/1_rotate_matrix.py!}
+{!02_arrays_part2/1_rotate_matrix.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/) [LeetCode](https://leetcode.com/problems/rotate-image/)<br>
@@ -14,7 +14,7 @@ Links: [TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/)
 **Problem Statement**: Given an array of intervals, merge all the overlapping intervals and return an array of non-overlapping intervals.<br>
 
 ```py
-{!2_arrays_part2/2_merge_overlapping_subintervals.py!}
+{!02_arrays_part2/2_merge_overlapping_subintervals.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/) [LeetCode](https://leetcode.com/problems/merge-intervals/)<br>
 
@@ -23,7 +23,7 @@ Links: [TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-inter
 **Problem Statement**: Given two sorted arrays arr1[] and arr2[] of sizes n and m in non-decreasing order. Merge them in sorted order. Modify arr1 so that it contains the first N elements and modify arr2 so that it contains the last M elements.<br>
 
 ```py
-{!2_arrays_part2/3_merge_two_sorted_arrays.py!}
+{!02_arrays_part2/3_merge_two_sorted_arrays.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/) [LeetCode](https://leetcode.com/problems/merge-sorted-array/)<br>
 
@@ -40,7 +40,7 @@ Floyd's Cycle Detection<br>
 Please check  [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula and intuition<br>
 
 ```py
-{!2_arrays_part2/4_duplicate_of_n+1_integers.py!}
+{!02_arrays_part2/4_duplicate_of_n+1_integers.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)<br>
 
@@ -57,7 +57,7 @@ Simple Maths Equations<br>
 Please check [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula and intuition<br>
 
 ```py
-{!2_arrays_part2/5_repeating_and_missing_number.py!}
+{!02_arrays_part2/5_repeating_and_missing_number.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)<br>
 

@@ -11,7 +11,7 @@ Simple Maths Equations<br>
 Time Complexity -> O(n + logm)
 
 ```py
-{!3_arrays_part3/1_search_in_2d_matrix.py!}
+{!03_arrays_part3/1_search_in_2d_matrix.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/)[LeetCode](https://leetcode.com/problems/search-a-2d-matrix/)<br>
 
@@ -40,7 +40,7 @@ TC - O(logn)<br>
 SC - O(1)
 
 ```py
-{!3_arrays_part3/2_pow_x_of_n.py!}
+{!03_arrays_part3/2_pow_x_of_n.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/)[LeetCode](https://leetcode.com/problems/powx-n/)<br>
 
@@ -50,7 +50,7 @@ Links: [TUF](https://takeuforward.org/data-structure/implement-powxn-x-raised-to
 
 
 ```py
-{!3_arrays_part3/3_majority_element.py!}
+{!03_arrays_part3/3_majority_element.py!}
 ```
 
 Links: [TUF](ttps://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/) [LeetCode](https://leetcode.com/problems/majority-element/)<br>
@@ -72,7 +72,7 @@ Time - O(2n)<br>
 Space - O(1)
 
 ```py
-{!3_arrays_part3/4_majority_element_2.py!}
+{!03_arrays_part3/4_majority_element_2.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/) [LeetCode](https://leetcode.com/problems/majority-element-ii/)<br>
 
@@ -83,7 +83,7 @@ Links: [TUF](https://takeuforward.org/data-structure/majority-elementsn-3-times-
 ![image](https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png)
 
 ```py
-{!3_arrays_part3/5_grid_unique_paths.py!}
+{!03_arrays_part3/5_grid_unique_paths.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/) [LeetCode](https://leetcode.com/problems/unique-paths/)<br>
