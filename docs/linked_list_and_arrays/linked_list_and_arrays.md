@@ -8,7 +8,7 @@
 4. Change the corresponding node next values
 
 ```py
-{!6_linked_list_and_arrays/1_rotate_linked_list.py!}
+{!07_linked_list_and_arrays/1_rotate_linked_list.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/rotate-a-linked-list/) [LeetCode](https://leetcode.com/problems/rotate-list/)<br>
@@ -27,7 +27,7 @@ Links: [TUF](https://takeuforward.org/data-structure/rotate-a-linked-list/) [Lee
 4. If sum is zero, add items to res<br>
 
 ```py
-{!6_linked_list_and_arrays/3_3sum.py!}
+{!07_linked_list_and_arrays/3_3sum.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/) [LeetCode](https://leetcode.com/problems/3sum/)<br>
@@ -41,7 +41,7 @@ Links: [TUF](https://takeuforward.org/data-structure/3-sum-find-triplets-that-ad
 3. The required length is till curr<br>
 
 ```py
-{!6_linked_list_and_arrays/5_remove_duplicates_from_sorted_array.py!}
+{!07_linked_list_and_arrays/5_remove_duplicates_from_sorted_array.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)<br>
@@ -54,7 +54,7 @@ Links: [TUF](https://takeuforward.org/data-structure/remove-duplicates-in-place-
 2. Else, res is maximum of res and curr<br>
 
 ```py
-{!6_linked_list_and_arrays/6_max_consecutive_ones.py!}
+{!07_linked_list_and_arrays/6_max_consecutive_ones.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/) [LeetCode](https://leetcode.com/problems/max-consecutive-ones/)<br>
