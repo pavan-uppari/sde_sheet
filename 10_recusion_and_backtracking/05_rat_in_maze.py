@@ -4,7 +4,7 @@ class Solution:
         self.n = len(mat)
         self.res = []
         self.helper()
-        return self.res
+        return sorted(self.res)
 
     def helper(self, r=0, c=0, curr="", seen=set()):
         if not self.is_valid(r, c, seen):
