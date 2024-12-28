@@ -16,6 +16,8 @@ Output: 1 2 4 5<br>
 Links: [TUF](https://takeuforward.org/data-structure/n-meetings-in-one-room/) [GFG](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)<br>
 
 
+---
+
 ## Minimum number of platforms required for a railway
 
 **Problem Statement**: We are given two arrays that represent the arrival and departure times of trains that stop at the platform. We need to find the minimum number of platforms needed at the railway station so that no train has to wait.  
@@ -35,6 +37,8 @@ Output: 3
 
 Links: [TUF](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/) [GFG](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)<br>
 
+---
+
 ## Job Sequencing Problem
 
 **Problem Statement**: You are given a set of N jobs where each job comes with a deadline and profit. The profit can only be earned upon completing the job within its deadline. Find the number of jobs done and the maximum profit that can be obtained. Each job takes a single unit of time and only one job can be performed at a time.  
@@ -52,6 +56,8 @@ Profit = 40 + 20 = 60
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/job-sequencing-problem/) [GFG](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)<br>
+
+---
 
 ## Fractional Knapsack Problem : Greedy Approach
 
@@ -71,6 +77,8 @@ Explanation: The first and second items  are taken as a whole  while only 20 uni
 
 Links: [TUF](https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/) [GFG](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)<br>
 
+---
+
 ## Find minimum number of coins
 
 **Problem Statement**: Given a value V, if we want to make a change for V Rs, and we have an infinite supply of each of the denominations in Indian currency, i.e., we have an infinite supply of { 1, 2, 5, 10, 20, 50, 100, 500, 1000} valued coins/notes, what is the minimum number of coins and/or notes needed to make the change.     
@@ -86,6 +94,8 @@ Iterate through high value coins to low value coins and try to get as many high 
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/find-minimum-number-of-coins/)<br>
+
+---
 
 ## Assign Cookies
 

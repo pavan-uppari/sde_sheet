@@ -12,9 +12,13 @@
 
 Links: [TUF](https://takeuforward.org/data-structure/set-matrix-zero/) [LeetCode](https://leetcode.com/problems/set-matrix-zeroes/)<br>
 
+---
+
 ## Next Permutation
 
 Coming Soon
+
+---
 
 ## Pascals Triangle
 
@@ -28,6 +32,8 @@ Given the number of rows n. Print the first n rows of Pascal’s triangle..<br>
 
 Links: [TUF](https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/) [LeetCode](https://leetcode.com/problems/pascals-triangle/)<br>
 
+---
+
 ## Kadanes Algorithm
 **Problem Statement**: Given an integer array arr, find the contiguous subarray (containing at least one number) which
 has the largest sum and returns its sum<br>
@@ -36,12 +42,16 @@ has the largest sum and returns its sum<br>
 ```
 Links: [TUF](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/) [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
+---
+
 ## Sort list Of 0s,1s,2s
 **Problem Statement**: Given an array consisting of only 0s, 1s, and 2s. Write a program to in-place sort the array without using inbuilt sort functions. ( Expected: Single pass-O(N) and constant space)<br>
 ```py
 {!01_arrays/5_sort_list_of_zeros_ones_twos.py!}
 ```
 Links: [TUF](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/) [LeetCode](https://leetcode.com/problems/sort-colors/)
+
+---
 
 ## Stock Buy and Sell
 

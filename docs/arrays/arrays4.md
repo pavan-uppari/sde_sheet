@@ -11,6 +11,8 @@
 
 Links: [TUF](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/) [LeetCode](https://leetcode.com/problems/two-sum/)<br>
 
+---
+
 ## 4 Sum
 **Problem Statement**: Find Quads that add up to a target value<br>
 **Algorithm**:<br>
@@ -32,6 +34,8 @@ Links: [TUF](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-wit
 Links: [TUF](https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/) [LeetCode](https://leetcode.com/problems/4sum/)<br>
 
 
+---
+
 ## Longest Consecutive Sequence
 **Problem Statement**: You are given an array of ‘N’ integers. You need to find the length of the longest sequence which contains the consecutive elements.<br>
 **Algorithm**:<br>
@@ -52,6 +56,8 @@ O(N) Solution<br>
 
 Links: [TUF](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/) [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)<br>
 
+---
+
 ## Longest SubArray with Zero Sum
 **Problem Statement**: Given an array containing both positive and negative integers, we have to find the length of the longest subarray with the sum of all elements equal to zero.<br>
 **Algorithm**:<br>
@@ -65,10 +71,14 @@ Links: [TUF](https://takeuforward.org/data-structure/longest-consecutive-sequenc
 
 Links: [TUF](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/)<br>
 
+---
+
 ## Count number of subarrays with given XOR K
 
 Coming Soon
 
+
+---
 
 ## Longest Substring without repeating characters 
 **Problem Statement**: Given a String, find the length of longest substring without any repeating character.<br>

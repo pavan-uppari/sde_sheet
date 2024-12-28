@@ -12,6 +12,8 @@ Explanation: We have to find all the subset’s sum and print them.in this case 
 
 Links: [TUF](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/) [GFG](https://www.geeksforgeeks.org/problems/subset-sums2234/1)<br>
 
+---
+
 ## Print all the Unique Subsets
 
 **Problem Statement**: Given an array of integers that may contain duplicates the task is to return all possible subsets. Return only unique subsets and they can be in any order.   
@@ -25,6 +27,8 @@ Explanation: We can have subsets ranging from  length 0 to 3. which are listed a
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/) [LC](https://leetcode.com/problems/subsets-ii/)<br>
+
+---
 
 ## Combination Sum - 1
 
@@ -49,6 +53,8 @@ Explanation: 2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used 
 
 Links: [TUF](https://takeuforward.org/data-structure/combination-sum-1/) [LC](https://leetcode.com/problems/combination-sum/)<br>
 
+---
+
 ## Combination Sum - 2
 
 **Problem Statement**: Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target. Each number in candidates may only be used once in the combination.
@@ -67,6 +73,8 @@ Output:
 
 Links: [TUF](https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/) [LeetCode](https://leetcode.com/problems/combination-sum-ii/)<br>
 
+---
+
 ## Palindrome Partitioning
 
 **Problem Statement**: You are given a string s, partition it in such a way that every substring is a palindrome. Return all such palindromic partitions of s.
@@ -81,6 +89,8 @@ Output: [ ["a","a","b"], ["aa","b"] ]
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/palindrome-partitioning/) [LeetCode](https://leetcode.com/problems/palindrome-partitioning/)<br>
+
+---
 
 ## Find K-th Permutation Sequence
 

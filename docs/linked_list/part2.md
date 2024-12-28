@@ -13,6 +13,8 @@
 
 Links: [TUF](https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/) [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/)<br>
 
+---
+
 ## Detect a cycle in Linked List
 
 **Algorithm**:<br>
@@ -24,6 +26,8 @@ Links: [TUF](https://takeuforward.org/data-structure/find-intersection-of-two-li
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/) [LeetCode](https://leetcode.com/problems/linked-list-cycle/description/)<br>
+
+---
 
 ## Check for Palindrome
 
@@ -39,6 +43,8 @@ Links: [TUF](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/) [LeetCode](https://leetcode.com/problems/palindrome-linked-list/)<br>
+
+---
 
 ## Starting Point of Loop
 
