@@ -1,11 +1,9 @@
 class Solution:
     def search(self, nums: List[int], target: int) -> int:
-
         n = len(nums)
-        low, high = 0, n-1
+        low, high = 0, n - 1
 
         while low <= high:
-
             mid = (low + high) // 2
 
             if nums[mid] == target:
