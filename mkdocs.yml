@@ -31,8 +31,10 @@ theme:
     - navigation.tracking
     - search.suggest
     - toc.follow
-  logo: 'logo-white.svg'
-  favicon: 'favicon.png'
+  # logo: 'tuf_logo-removebg-preview.png'
+  # favicon: 'favicon.png'
+repo_name: pavan-uppari/sde_sheet
+repo_url: https://github.com/pavan-uppari/sde_sheet
 markdown_extensions:
   - markdown_include.include
   - pymdownx.details

@@ -36,6 +36,31 @@ Links: [TUF](https://takeuforward.org/data-structure/3-sum-find-triplets-that-ad
 
 ---
 
+## Trapping Rainwater
+
+**Problem Statement**: Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining.
+
+**Example**:  
+
+![rainwater](https://assets.leetcode.com/uploads/2018/10/22/rainwatertrap.png)
+
+Input: height = [0,1,0,2,1,0,1,3,2,1,2,1]
+
+Output: 6
+
+Explanation: The above elevation map (black section) is represented by array [0,1,0,2,1,0,1,3,2,1,2,1]. In this case, 6 units of rain water (blue section) are being trapped.
+
+**Algorithm**:  
+At a particular index, amount of water that can be trapped is height - min(prefix_max_height, suffix_max_height)
+
+```py
+{!07_linked_list_and_arrays/4_trapping_rainwater.py!}
+```
+
+Links: [TUF](https://takeuforward.org/data-structure/trapping-rainwater/) [LC](https://leetcode.com/problems/trapping-rain-water/description/)<br>
+
+---
+
 ## Remove duplicates from sorted array
 
 **Problem Statement**: Given an integer array sorted in non-decreasing order, remove the duplicates in place such that each unique element appears only once. The relative order of the elements should be kept the same.<br>
