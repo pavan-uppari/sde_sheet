@@ -12,10 +12,16 @@ Explanation For Sample Input 1:
 3rd Root of 27 is 3, as (3)^3 equals 27.
 
 ```py
-{!11_binary_search\01_nth_root.py!}
+{!11_binary_search/01_nth_root.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/) [Code360](https://www.naukri.com/code360/problems/1062679?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
+
+---
+
+## Matrix Median
+
+Coming Soon
 
 ---
 
@@ -35,7 +41,7 @@ Elements which are repeated twice will be at
 2. even, odd indices to right of target
 
 ```py
-{!11_binary_search\03_single_element_in_sorted_array.py!}
+{!11_binary_search/03_single_element_in_sorted_array.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) [LC](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)<br>
@@ -59,10 +65,28 @@ Output: 4
 2. Eliminate one of them using that property.
 
 ```py
-{!11_binary_search\04_search_in_rotated_sorted_array.py!}
+{!11_binary_search/04_search_in_rotated_sorted_array.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/) [LC](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)<br>
+
+---
+
+## Median of 2 Sorted Arrays
+
+Coming Soon
+
+---
+
+## Kth Element of 2 Sorted Arrays
+
+Coming Soon
+
+---
+
+## Allocate Minimum Number of Pages
+
+Coming Soon
 
 ---
 
@@ -85,7 +109,7 @@ Explanation: The maximum possible minimum distance between any two cows will be 
 5. Else, eliminate right half to find answer in left half.
 
 ```py
-{!11_binary_search\08_agressive_cows.py!}
+{!11_binary_search/08_agressive_cows.py!}
 ```
 
 Links: [TUF](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/) <br>
