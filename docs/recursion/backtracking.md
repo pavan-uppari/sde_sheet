@@ -151,6 +151,6 @@ god is now here now here
 {!10_recusion_and_backtracking/06_word_break.py!}
 ```
 
-Links: [TUF](10_recusion_and_backtracking\06_word_break.py) [Code360](https://www.naukri.com/code360/problems/983635?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
+Links: [Code360](https://www.naukri.com/code360/problems/983635?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
 
 ---

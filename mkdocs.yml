@@ -61,3 +61,4 @@ nav:
     - Greedy Algorithms: greedy/greedy.md
     - Recursion: recursion/recursion.md
     - Recusion and Backtracking: recursion/backtracking.md
+    - Binary Search: binary_search/bs.md
