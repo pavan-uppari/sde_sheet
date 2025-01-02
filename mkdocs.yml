@@ -64,3 +64,6 @@ nav:
     - Recursion: recursion/recursion.md
     - Recusion and Backtracking: recursion/backtracking.md
     - Binary Search: binary_search/bs.md
+    - Stacks and Queues:
+      - Part1: stacks_and_queues/stacks_and_queues_1.md
+      - Part2: stacks_and_queues/stacks_and_queues_2.md
