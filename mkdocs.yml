@@ -69,3 +69,8 @@ nav:
       - Part2: stacks_and_queues/stacks_and_queues_2.md
     - Binary Trees:
       - Part1: binary_trees/binary_trees.md
+      - Part2: binary_trees/binary_trees_2.md
+      - Part3: binary_trees/binary_trees_3.md
+    - Binary Search Trees:
+      - Part1: binary_search_trees/bst.md
+      - Part2: binary_search_trees/bst_ii.md
