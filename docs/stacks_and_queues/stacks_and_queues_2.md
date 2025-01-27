@@ -1,6 +1,6 @@
 ## Next Smaller Element
 
-**Algorithm**:  
+**🧠**:  
 1. Use stack. Iterate through items and remove items from stack whose value is greater than or equal to current num.   
 2. Next smaller element is element present in top of stack. If stack is empty, there is not next smaller element.  
 
@@ -8,13 +8,13 @@
 {!14_stacks_and_queues_2/01_nse.py!}
 ```
 
-Links: [LC](https://www.interviewbit.com/problems/nearest-smaller-element/)<br>
+[LC](https://www.interviewbit.com/problems/nearest-smaller-element/)<br>
 
 ---
 
 ## Largest rectangle in a histogram
 
-**Problem Statement**: Given an array of integers heights representing the histogram's bar height where the width of each bar is 1  return the area of the largest rectangle in histogram.  
+**❓**: Given an array of integers heights representing the histogram's bar height where the width of each bar is 1  return the area of the largest rectangle in histogram.  
 **Example**:  
 Input: heights = [2,1,5,6,2,3]
 Output: 10
@@ -23,20 +23,20 @@ The largest rectangle is shown in the red area, which has an area = 10 units.
 
 ![img](https://assets.leetcode.com/uploads/2021/01/04/histogram.jpg)
 
-**Algorithm**:  
+**🧠**:  
 For every height, possible rectangle width is `nse-pse-1`
 
 ```py
 {!14_stacks_and_queues_2/04_largest_rectangle_in_histogram.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/) [LC](https://leetcode.com/problems/largest-rectangle-in-histogram/)<br>
+[TUF](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/) [LC](https://leetcode.com/problems/largest-rectangle-in-histogram/)<br>
 
 ---
 
 ## Sliding Window Maximum
 
-**Problem Statement**: Given an array of integers arr, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.
+**❓**: Given an array of integers arr, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position. Return the max sliding window.
 
 **Example**:  
 Input: arr = [4,0,-1,3,5,3,6,8], k = 3
@@ -60,13 +60,13 @@ For each window of size k=3, we find the maximum element in the window and add i
 {!14_stacks_and_queues_2/05_sliding_window_maximum.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/sliding-window-maximum/) [LC](https://leetcode.com/problems/sliding-window-maximum/description/)<br>
+[TUF](https://takeuforward.org/data-structure/sliding-window-maximum/) [LC](https://leetcode.com/problems/sliding-window-maximum/description/)<br>
 
 ---
 
 ## Implement Min Stack
 
-**Problem Statement**: Implement Min Stack | O(2N) and O(N) Space Complexity. Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
+**❓**: Implement Min Stack | O(2N) and O(N) Space Complexity. Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.
 
 **Example**:  
 Input Format:["MinStack", "push", "push", "push", "getMin", "pop", "top", "getMin"]
@@ -80,13 +80,13 @@ Result: [null, null, null, null, -3, null, 0, -2]
 {!14_stacks_and_queues_2/06_min_stack.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/) [LC](https://leetcode.com/problems/min-stack/description/)<br>
+[TUF](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/) [LC](https://leetcode.com/problems/min-stack/description/)<br>
 
 ---
 
 ## Rotten Orange (Using BFS)
 
-**Problem Statement**: You will be given an m x n grid, where each cell has the following values : 
+**❓**: You will be given an m x n grid, where each cell has the following values : 
 
 2  -  represents a rotten orange
 1  -  represents a Fresh orange
@@ -102,20 +102,20 @@ Output: 4
 
 ![img](https://assets.leetcode.com/uploads/2019/02/16/oranges.png)
 
-**Algorithm**:  
+**🧠**:  
 Use BFS
 
 ```py
 {!14_stacks_and_queues_2/07_rotten_oranges.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/) [LC](https://leetcode.com/problems/rotting-oranges/description/)<br>
+[TUF](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/) [LC](https://leetcode.com/problems/rotting-oranges/description/)<br>
 
 ---
 
 ## Stock span problem
 
-**Problem Statement**: Design an algorithm that collects daily price quotes for some stock and returns the span of that stock's price for the current day.
+**❓**: Design an algorithm that collects daily price quotes for some stock and returns the span of that stock's price for the current day.
 
 The span of the stock's price in one day is the maximum number of consecutive days (starting from that day and going backward) for which the stock price was less than or equal to the price of that day.
 
@@ -133,20 +133,20 @@ Input
 Output
 [null, 1, 1, 1, 2, 1, 4, 6]
 
-**Algorithm**:  
+**🧠**:  
 Find pge
 
 ```py
 {!14_stacks_and_queues_2/08_stock_span.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/online-stock-span/description/)<br>
+[LC](https://leetcode.com/problems/online-stock-span/description/)<br>
 
 ---
 
 ## The Celebrity Problem
 
-**Problem Statement**: A celebrity is a person who is known by everyone else at the party but does not know anyone in return. Given a square matrix M of size N x N where M[i][j] is 1 if person i knows person j, and 0 otherwise, determine if there is a celebrity at the party. Return the index of the celebrity or -1 if no such person exists.
+**❓**: A celebrity is a person who is known by everyone else at the party but does not know anyone in return. Given a square matrix M of size N x N where M[i][j] is 1 if person i knows person j, and 0 otherwise, determine if there is a celebrity at the party. Return the index of the celebrity or -1 if no such person exists.
 
 Note that M[i][i] is always 0.
 

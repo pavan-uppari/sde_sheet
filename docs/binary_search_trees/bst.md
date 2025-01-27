@@ -1,6 +1,6 @@
 ## Populate Next Right pointers of Tree
 
-**Problem Statement**: You are given a perfect binary tree where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:
+**❓**: You are given a perfect binary tree where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:
 
 struct Node {
   int val;
@@ -19,7 +19,7 @@ Initially, all next pointers are set to NULL.
 Input: root = [1,2,3,4,5,6,7]  
 Output: [1,#,2,3,#,4,5,6,7,#]  
 
-**Algorithm**:  
+**🧠**:  
 At each level, for every node, perform 2 steps
     a. make left next to right
     b. If node has any next, make right next as next left
@@ -28,7 +28,7 @@ At each level, for every node, perform 2 steps
 {!20_binary_search_tree/01_populate_next_pointers.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)<br>
+[LC](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)<br>
 
 ---
 
@@ -38,13 +38,13 @@ Links: [LC](https://leetcode.com/problems/populating-next-right-pointers-in-each
 {!20_binary_search_tree/03_convert_srted_array_to_bst.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)<br>
+[LC](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)<br>
 
 ---
 
 ## Construct a BST from a preorder traversal
 
-**Algorithm**:  
+**🧠**:  
 1. For BST, inorder will be sorted.  
 2. Find inorder by sorting preorder and construct BT.  
 
@@ -52,7 +52,7 @@ Links: [LC](https://leetcode.com/problems/convert-sorted-array-to-binary-search-
 {!20_binary_search_tree/04_bst_from_preorder.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)<br>
+[LC](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)<br>
 
 ---
 
@@ -62,7 +62,7 @@ Links: [LC](https://leetcode.com/problems/construct-binary-search-tree-from-preo
 {!20_binary_search_tree/05_validate_bst.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/validate-binary-search-tree/)<br>
+[LC](https://leetcode.com/problems/validate-binary-search-tree/)<br>
 
 ---
 
@@ -72,13 +72,13 @@ Links: [LC](https://leetcode.com/problems/validate-binary-search-tree/)<br>
 {!20_binary_search_tree/06_lca_in_bst.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)<br>
+[LC](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)<br>
 
 ---
 
 ## Find the inorder predecessor/successor of a given Key in BST
 
-**Problem Statement**: You are given root node of the BST and the key node of the tree. You need to find the in-order successor and predecessor of a given key. If either predecessor or successor is not found, then set it to NULL.
+**❓**: You are given root node of the BST and the key node of the tree. You need to find the in-order successor and predecessor of a given key. If either predecessor or successor is not found, then set it to NULL.
 
 Note:- In an inorder traversal the number just smaller than the target is the predecessor and the number just greater than the target is the successor. 
 
@@ -99,6 +99,6 @@ Output: 4 9
 {!20_binary_search_tree/07_inorder_successor_predecessor.py!}
 ```
 
-Links: [GFG](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)<br>
+[GFG](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)<br>
 
 ---
