@@ -7,7 +7,7 @@
 Input: root = [3,9,20,null,null,15,7]  
 Output: [[3],[9,20],[15,7]]  
 
-**Algorithm**:  
+**🧠**:  
 BFS
 
 ```py
@@ -53,7 +53,7 @@ Links: [TUF](https://takeuforward.org/data-structure/calculate-the-diameter-of-a
 
 ## Balanced Binary Tree
 
-**Problem Statement**: Given a binary tree, determine if it is height-balanced
+**❓**: Given a binary tree, determine if it is height-balanced
 
 A height-balanced binary tree is a binary tree in which the depth of the two subtrees of every node never differs by more than one.
 
@@ -74,7 +74,7 @@ Input: root = [3,5,1,6,2,0,8,null,null,7,4], p = 5, q = 1
 Output: 3  
 Explanation: The LCA of nodes 5 and 1 is 3.
 
-**Algorithm**:  
+**🧠**:  
 1. Return None or Node in every recusive call for both left and right childs.  
 2. If both left and right recursive calls is not None, then current node is your answer.  
 
@@ -104,7 +104,7 @@ Links: [TUF](https://takeuforward.org/data-structure/check-if-two-trees-are-iden
 Input: root = [3,9,20,null,null,15,7]  
 Output: [[3],[20,9],[15,7]]  
 
-**Algorithm**:  
+**🧠**:  
 1. Use BFS  
 2. Use zig_zag flag at every level to zig zag the iteration.  
 
@@ -118,7 +118,7 @@ Links: [TUF](https://takeuforward.org/data-structure/zig-zag-traversal-of-binary
 
 ## Boundary Traversal
 
-**Problem Statement**: Given a Binary Tree, perform the boundary traversal of the tree. The boundary traversal is the process of visiting the boundary nodes of the binary tree in the anticlockwise direction, starting from the root.
+**❓**: Given a Binary Tree, perform the boundary traversal of the tree. The boundary traversal is the process of visiting the boundary nodes of the binary tree in the anticlockwise direction, starting from the root.
 
 **Example**:  
 
@@ -126,7 +126,7 @@ Links: [TUF](https://takeuforward.org/data-structure/zig-zag-traversal-of-binary
 Input:Binary Tree: 1 2 7 3 -1 -1 8 -1 4 9 -1 5 6 10 11  
 Output: Boundary Traversal: [1, 2, 3, 4, 5, 6, 10, 11, 9, 8, 7]  
 
-**Algorithm**:  
+**🧠**:  
 1. Result is - root + left boundary excluding leaves + leaf nodes + reversed right boundary excluding leaves  
 2. Edge case - If root is leave node, return [root value]  
 

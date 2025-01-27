@@ -1,9 +1,9 @@
 ## ProblemHeading
 
-**Problem Statement**: Problemstatement  
+**❓**: Problemstatement  
 **Example**:  
 Input
-**Algorithm**:  
+**🧠**:  
 1. 
 
 ```py

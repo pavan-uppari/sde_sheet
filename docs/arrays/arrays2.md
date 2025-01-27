@@ -1,6 +1,6 @@
 ## Rotate Matrix
 
-**Problem Statement**: Given a matrix, your task is to rotate the matrix 90 degrees clockwise.<br>
+**❓**: Given a matrix, your task is to rotate the matrix 90 degrees clockwise.<br>
 
 
 ```py
@@ -13,7 +13,7 @@ Links: [TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/)
 
 ## Merge Overlapping Sub Intervals
 
-**Problem Statement**: Given an array of intervals, merge all the overlapping intervals and return an array of non-overlapping intervals.<br>
+**❓**: Given an array of intervals, merge all the overlapping intervals and return an array of non-overlapping intervals.<br>
 
 ```py
 {!02_arrays_part2/2_merge_overlapping_subintervals.py!}
@@ -24,7 +24,7 @@ Links: [TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-inter
 
 ## Merge 2 sorted arrays without extra space
 
-**Problem Statement**: Given two sorted arrays arr1[] and arr2[] of sizes n and m in non-decreasing order. Merge them in sorted order. Modify arr1 so that it contains the first N elements and modify arr2 so that it contains the last M elements.<br>
+**❓**: Given two sorted arrays arr1[] and arr2[] of sizes n and m in non-decreasing order. Merge them in sorted order. Modify arr1 so that it contains the first N elements and modify arr2 so that it contains the last M elements.<br>
 
 ```py
 {!02_arrays_part2/3_merge_two_sorted_arrays.py!}
@@ -35,9 +35,9 @@ Links: [TUF](https://takeuforward.org/data-structure/merge-two-sorted-arrays-wit
 
 ## Duplicate in array of n+1 integers
 
-**Problem Statement**: Given an array of N + 1 size, where each element is between 1 and N. Assuming there is only one duplicate number, your task is to find the duplicate number.<br>
+**❓**: Given an array of N + 1 size, where each element is between 1 and N. Assuming there is only one duplicate number, your task is to find the duplicate number.<br>
 
-**Algorithm**:<br>
+**🧠**:<br>
 Floyd's Cycle Detection<br>
 1. Slow moves one point at a time<br>
 2. Fast moves 2 points at a time.<br>
@@ -54,9 +54,9 @@ Links: [TUF](https://takeuforward.org/data-structure/find-the-duplicate-in-an-ar
 
 ## Repeating and Missing number
 
-**Problem Statement**: You are given a read-only array of N integers with values also in the range [1, N] both inclusive. Each integer appears exactly once except A which appears twice and B which is missing. The task is to find the repeating and missing numbers A and B where A repeats twice and B is missing.<br>
+**❓**: You are given a read-only array of N integers with values also in the range [1, N] both inclusive. Each integer appears exactly once except A which appears twice and B which is missing. The task is to find the repeating and missing numbers A and B where A repeats twice and B is missing.<br>
 
-**Algorithm**:<br>
+**🧠**:<br>
 Simple Maths Equations<br>
 1. Find sum of n numbers and find X - Y value. (X- Repeating, Y - Missing)<br>
 2. Find sum of squares of n numbers and form second equation. (X2 - Y2 = (X+Y)(X-Y)). From which we can get X + Y value<br>

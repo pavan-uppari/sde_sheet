@@ -1,6 +1,6 @@
 ## Populate Next Right pointers of Tree
 
-**Problem Statement**: You are given a perfect binary tree where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:
+**❓**: You are given a perfect binary tree where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:
 
 struct Node {
   int val;
@@ -19,7 +19,7 @@ Initially, all next pointers are set to NULL.
 Input: root = [1,2,3,4,5,6,7]  
 Output: [1,#,2,3,#,4,5,6,7,#]  
 
-**Algorithm**:  
+**🧠**:  
 At each level, for every node, perform 2 steps
     a. make left next to right
     b. If node has any next, make right next as next left
@@ -44,7 +44,7 @@ Links: [LC](https://leetcode.com/problems/convert-sorted-array-to-binary-search-
 
 ## Construct a BST from a preorder traversal
 
-**Algorithm**:  
+**🧠**:  
 1. For BST, inorder will be sorted.  
 2. Find inorder by sorting preorder and construct BT.  
 
@@ -78,7 +78,7 @@ Links: [LC](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-sea
 
 ## Find the inorder predecessor/successor of a given Key in BST
 
-**Problem Statement**: You are given root node of the BST and the key node of the tree. You need to find the in-order successor and predecessor of a given key. If either predecessor or successor is not found, then set it to NULL.
+**❓**: You are given root node of the BST and the key node of the tree. You need to find the in-order successor and predecessor of a given key. If either predecessor or successor is not found, then set it to NULL.
 
 Note:- In an inorder traversal the number just smaller than the target is the predecessor and the number just greater than the target is the successor. 
 

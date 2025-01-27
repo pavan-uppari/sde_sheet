@@ -1,6 +1,6 @@
 ## Nth root of an integer
 
-**Problem Statement**: You are given two positive integers 'n' and 'm'. You have to return the 'nth' root of 'm', i.e. 'm(1/n)'. If the 'nth root is not an integer, return -1. 
+**❓**: You are given two positive integers 'n' and 'm'. You have to return the 'nth' root of 'm', i.e. 'm(1/n)'. If the 'nth root is not an integer, return -1. 
 
 **Example**:  
 3 27
@@ -27,7 +27,7 @@ Coming Soon
 
 ## Single Element in a Sorted Array
 
-**Problem Statement**: You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.
+**❓**: You are given a sorted array consisting of only integers where every element appears exactly twice, except for one element which appears exactly once.
 
 Return the single element that appears only once.
 
@@ -35,7 +35,7 @@ Return the single element that appears only once.
 Input: nums = [1,1,2,3,3,4,4,8,8]
 Output: 2
 
-**Algorithm**:  
+**🧠**:  
 Elements which are repeated twice will be at   
 1. odd, even indices to left of target  
 2. even, odd indices to right of target
@@ -50,7 +50,7 @@ Links: [TUF](https://takeuforward.org/data-structure/search-single-element-in-a-
 
 ## Search in Rotated Sorted Array
 
-**Problem Statement**: There is an integer array nums sorted in ascending order (with distinct values).
+**❓**: There is an integer array nums sorted in ascending order (with distinct values).
 
 Prior to being passed to your function, nums is possibly rotated at an unknown pivot index k (1 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). For example, [0,1,2,4,5,6,7] might be rotated at pivot index 3 and become [4,5,6,7,0,1,2].
 
@@ -60,7 +60,7 @@ Given the array nums after the possible rotation and an integer target, return t
 Input: nums = [4,5,6,7,0,1,2], target = 0
 Output: 4
 
-**Algorithm**:  
+**🧠**:  
 1. On doing binary search, atleast one of left or right half will be sorted.  
 2. Eliminate one of them using that property.
 
@@ -92,7 +92,7 @@ Coming Soon
 
 ## Agressive Cows
 
-**Problem Statement**: Given an array nums of size n, which denotes the positions of stalls, and an integer k, which denotes the number of aggressive cows, assign stalls to k cows such that the minimum distance between any two cows is the maximum possible. Find the maximum possible minimum distance.    
+**❓**: Given an array nums of size n, which denotes the positions of stalls, and an integer k, which denotes the number of aggressive cows, assign stalls to k cows such that the minimum distance between any two cows is the maximum possible. Find the maximum possible minimum distance.    
 
 **Example**:  
 Input: n = 6, k = 4, nums = [0, 3, 4, 7, 10, 9]
@@ -101,7 +101,7 @@ Output: 3
 
 Explanation: The maximum possible minimum distance between any two cows will be 3 when 4 cows are placed at positions [0, 3, 7, 10]. Here the distances between cows are 3, 4, and 3 respectively. We cannot make the minimum distance greater than 3 in any ways.  
 
-**Algorithm**:  
+**🧠**:  
 1. Minimum possible way is 1 and maximum is max(arr) - min(arr).  
 2. Linear search approach would be trying all the values in range till we find maximum result.  
 3. Binary search approach is going to mid element and check whether it is possible or not.  

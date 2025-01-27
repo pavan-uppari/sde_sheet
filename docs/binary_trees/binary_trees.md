@@ -39,7 +39,7 @@ Output: [1, 2, 4]
 
 Explanation: From the left side of the tree, only the nodes 1, 2, and 4 are visible.
 
-**Algorithm**:  
+**🧠**:  
 Use BFS, result is list of first element in each level of binary tree.
 
 ```py
@@ -57,7 +57,7 @@ Links: [TUF](https://takeuforward.org/data-structure/right-left-view-of-binary-t
 
 For the above tree, the output should be 4 2 5 3.
 
-**Algorithm**:  
+**🧠**:  
 1. Use BFS, carry level during traversal, on going left decrease the level, on going right increase the level.  
 2. Result is list of last elements in each level.  
 
@@ -71,7 +71,7 @@ Links: [TUF](https://takeuforward.org/data-structure/bottom-view-of-a-binary-tre
 
 ## Top View of Binary Tree
 
-**Algorithm**:  
+**🧠**:  
 Same as bottom view, result is list of first elements in each level. 
 
 ```py
@@ -84,7 +84,7 @@ Links: [TUF](https://takeuforward.org/data-structure/top-view-of-a-binary-tree/)
 
 ## Vertical order traversal
 
-**Problem Statement**: The vertical order traversal of a binary tree is a list of top-to-bottom orderings for each column index starting from the leftmost column and ending on the rightmost column. There may be multiple nodes in the same row and same column. In such a case, sort these nodes by their values.  
+**❓**: The vertical order traversal of a binary tree is a list of top-to-bottom orderings for each column index starting from the leftmost column and ending on the rightmost column. There may be multiple nodes in the same row and same column. In such a case, sort these nodes by their values.  
 
 **Example**:  
 ![img](https://assets.leetcode.com/uploads/2021/01/29/vtree2.jpg)
@@ -92,7 +92,7 @@ Links: [TUF](https://takeuforward.org/data-structure/top-view-of-a-binary-tree/)
 Input: root = [1,2,3,4,5,6,7]
 Output: [[4],[2],[1,5,6],[3],[7]]
 
-**Algorithm**:  
+**🧠**:  
 1. Use BFS, use level logic, on going left decrease the level, on going right increase the level.  
 2. During BFS, we will be iterating for each height.  
 3. If multiple elements found in the same level and also at the same height, sort them.  
@@ -107,7 +107,7 @@ Links: [TUF](https://takeuforward.org/data-structure/vertical-order-traversal-of
 
 ## Root to Leaf Paths
 
-**Problem Statement**: Given a Binary Tree, you need to find all the possible paths from the root node to all the leaf nodes of the binary tree.
+**❓**: Given a Binary Tree, you need to find all the possible paths from the root node to all the leaf nodes of the binary tree.
 
 **Example**:  
 
@@ -118,7 +118,7 @@ Input: root[] = [1, 2, 3, 4, 5]
 Output: [[1, 2, 4], [1, 2, 5], [1, 3]]   
 Explanation: All possible paths: 1->2->4, 1->2->5 and 1->3
 
-**Algorithm**:  
+**🧠**:  
 Use DFS
 
 ```py
@@ -131,7 +131,7 @@ Links: [TUF](https://takeuforward.org/data-structure/print-root-to-node-path-in-
 
 ## Max width of a Binary Tree
 
-**Problem Statement**: Given a Binary Tree, return its maximum width. The maximum width of a Binary Tree is the maximum diameter among all its levels. The width or diameter of a level is the number of nodes between the leftmost and rightmost nodes.
+**❓**: Given a Binary Tree, return its maximum width. The maximum width of a Binary Tree is the maximum diameter among all its levels. The width or diameter of a level is the number of nodes between the leftmost and rightmost nodes.
 
 **Example**:  
 
@@ -141,7 +141,7 @@ Input: root = [1,3,2,5,null,null,9,6,null,7]
 Output: 7  
 Explanation: The maximum width exists in the fourth level with length 7 (6,null,null,null,null,null,7).
 
-**Algorithm**:  
+**🧠**:  
 1. Use BFS, use index for every element while traversal.  
 2. If i is index of a node, its left child index is 2*i, right child index is 2*i + 1.  
 3. Find width at each level of BFS.  

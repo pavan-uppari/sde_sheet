@@ -1,6 +1,6 @@
 ## Sum of all Subsets
 
-**Problem Statement**: Given an array print all the sum of the subset generated from it, in the increasing order.  
+**❓**: Given an array print all the sum of the subset generated from it, in the increasing order.  
 **Example**:  
 Input:  N = 3, arr[] = {5,2,1}  
 Output: 0,1,2,3,5,6,7,8  
@@ -16,7 +16,7 @@ Links: [TUF](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subse
 
 ## Print all the Unique Subsets
 
-**Problem Statement**: Given an array of integers that may contain duplicates the task is to return all possible subsets. Return only unique subsets and they can be in any order.   
+**❓**: Given an array of integers that may contain duplicates the task is to return all possible subsets. Return only unique subsets and they can be in any order.   
 **Example**:  
 Input: [1,2,2]  
 Output: [[ ],[1],[1,2],[1,2,2],[2],[2,2]]  
@@ -32,7 +32,7 @@ Links: [TUF](https://takeuforward.org/data-structure/subset-ii-print-all-the-uni
 
 ## Combination Sum - 1
 
-**Problem Statement**: Given an array of distinct integers and a target, you have to return the list of all unique combinations where the chosen numbers sum to target. You may return the combinations in any order.  
+**❓**: Given an array of distinct integers and a target, you have to return the list of all unique combinations where the chosen numbers sum to target. You may return the combinations in any order.  
 
 The same number may be chosen from the given array an unlimited number of times. Two combinations are unique if the frequency of at least one of the chosen numbers is different.
 
@@ -57,7 +57,7 @@ Links: [TUF](https://takeuforward.org/data-structure/combination-sum-1/) [LC](ht
 
 ## Combination Sum - 2
 
-**Problem Statement**: Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target. Each number in candidates may only be used once in the combination.
+**❓**: Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target. Each number in candidates may only be used once in the combination.
 
 Note: The solution set must not contain duplicate combinations.
 
@@ -77,7 +77,7 @@ Links: [TUF](https://takeuforward.org/data-structure/combination-sum-ii-find-all
 
 ## Palindrome Partitioning
 
-**Problem Statement**: You are given a string s, partition it in such a way that every substring is a palindrome. Return all such palindromic partitions of s.
+**❓**: You are given a string s, partition it in such a way that every substring is a palindrome. Return all such palindromic partitions of s.
 
 **Example**:  
 Input: s = “aab”
