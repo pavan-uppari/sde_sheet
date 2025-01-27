@@ -9,7 +9,7 @@
 {!04_arrays_part4/1_2sum.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/) [LeetCode](https://leetcode.com/problems/two-sum/)<br>
+[TUF](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-with-given-sum-exists-in-array/) [LeetCode](https://leetcode.com/problems/two-sum/)<br>
 
 ---
 
@@ -31,7 +31,7 @@ Links: [TUF](https://takeuforward.org/data-structure/two-sum-check-if-a-pair-wit
 {!04_arrays_part4/2_4sum.py!lines=30-48}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/) [LeetCode](https://leetcode.com/problems/4sum/)<br>
+[TUF](https://takeuforward.org/data-structure/4-sum-find-quads-that-add-up-to-a-target-value/) [LeetCode](https://leetcode.com/problems/4sum/)<br>
 
 
 ---
@@ -54,7 +54,7 @@ O(N) Solution<br>
 {!04_arrays_part4/3_longest_consecutive_sequence.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/) [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)<br>
+[TUF](https://takeuforward.org/data-structure/longest-consecutive-sequence-in-an-array/) [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/)<br>
 
 ---
 
@@ -69,7 +69,7 @@ Links: [TUF](https://takeuforward.org/data-structure/longest-consecutive-sequenc
 {!04_arrays_part4/4_longest_subarray_with_sum_zero.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/)<br>
+[TUF](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/)<br>
 
 ---
 
@@ -91,5 +91,5 @@ Coming Soon
 {!04_arrays_part4/6_longest_substring_without_repeating_character.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/) [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)<br>
+[TUF](https://takeuforward.org/data-structure/length-of-the-longest-subarray-with-zero-sum/) [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)<br>
 

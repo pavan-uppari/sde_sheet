@@ -10,6 +10,6 @@ Input
 {!path!}
 ```
 
-Links: [TUF](link) [LC](link)<br>
+[TUF](link) [LC](link)<br>
 
 ---

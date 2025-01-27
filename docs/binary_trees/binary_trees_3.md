@@ -15,7 +15,7 @@ Explanation: The optimal path is 15 -> 20 -> 7 with a path sum of 15 + 20 + 7 = 
 {!19_binary_tree_iii/01_max_path_sum.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/) [LC](https://leetcode.com/problems/binary-tree-maximum-path-sum/)<br>
+[TUF](https://takeuforward.org/data-structure/maximum-sum-path-in-binary-tree/) [LC](https://leetcode.com/problems/binary-tree-maximum-path-sum/)<br>
 
 ---
 
@@ -25,7 +25,7 @@ Links: [TUF](https://takeuforward.org/data-structure/maximum-sum-path-in-binary-
 {!19_binary_tree_iii/02_tree_from_inorder_preorder.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/) [LC](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)<br>
+[TUF](https://takeuforward.org/data-structure/construct-a-binary-tree-from-inorder-and-preorder-traversal/) [LC](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/)<br>
 
 ---
 
@@ -35,7 +35,7 @@ Links: [TUF](https://takeuforward.org/data-structure/construct-a-binary-tree-fro
 {!19_binary_tree_iii/03_tree_from_inorder_postorder.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)<br>
+[LC](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)<br>
 
 ---
 
@@ -45,7 +45,7 @@ Links: [LC](https://leetcode.com/problems/construct-binary-tree-from-inorder-and
 {!19_binary_tree_iii/04_symmetric_bt.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/) [LC](https://leetcode.com/problems/symmetric-tree/)<br>
+[TUF](https://takeuforward.org/data-structure/check-for-symmetrical-binary-tree/) [LC](https://leetcode.com/problems/symmetric-tree/)<br>
 
 ---
 
@@ -59,7 +59,7 @@ Given a Binary Tree, convert it into its mirror.
 {!19_binary_tree_iii/06_is_mirror.py!}
 ```
 
-Links: [GFG](https://practice.geeksforgeeks.org/problems/mirror-tree/1)<br>
+[GFG](https://practice.geeksforgeeks.org/problems/mirror-tree/1)<br>
 
 ---
 
@@ -82,6 +82,6 @@ Explanation: Here, every node is sum of its left and right child.
 {!19_binary_tree_iii/07_check_for_children_sum.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/) [LC](https://www.geeksforgeeks.org/problems/children-sum-parent/1)<br>
+[TUF](https://takeuforward.org/data-structure/check-for-children-sum-property-in-a-binary-tree/) [LC](https://www.geeksforgeeks.org/problems/children-sum-parent/1)<br>
 
 ---

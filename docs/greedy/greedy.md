@@ -13,7 +13,7 @@ Output: 1 2 4 5<br>
 {!08_greedy/01_nmeetings_in_one_room.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/n-meetings-in-one-room/) [GFG](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)<br>
+[TUF](https://takeuforward.org/data-structure/n-meetings-in-one-room/) [GFG](https://www.geeksforgeeks.org/problems/n-meetings-in-one-room-1587115620/1)<br>
 
 
 ---
@@ -35,7 +35,7 @@ Output: 3
 {!08_greedy/02_minimum_platforms.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/) [GFG](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)<br>
+[TUF](https://takeuforward.org/data-structure/minimum-number-of-platforms-required-for-a-railway/) [GFG](https://www.geeksforgeeks.org/problems/minimum-platforms-1587115620/1)<br>
 
 ---
 
@@ -55,7 +55,7 @@ Profit = 40 + 20 = 60
 {!08_greedy/03_job_sequencing.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/job-sequencing-problem/) [GFG](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)<br>
+[TUF](https://takeuforward.org/data-structure/job-sequencing-problem/) [GFG](https://www.geeksforgeeks.org/problems/job-sequencing-problem-1587115620/1)<br>
 
 ---
 
@@ -75,7 +75,7 @@ Explanation: The first and second items  are taken as a whole  while only 20 uni
 {!08_greedy/04_fractional_knapsack.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/) [GFG](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)<br>
+[TUF](https://takeuforward.org/data-structure/fractional-knapsack-problem-greedy-approach/) [GFG](https://www.geeksforgeeks.org/problems/fractional-knapsack-1587115620/1)<br>
 
 ---
 
@@ -93,7 +93,7 @@ Iterate through high value coins to low value coins and try to get as many high 
 {!08_greedy/05_min_coins.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/find-minimum-number-of-coins/)<br>
+[TUF](https://takeuforward.org/data-structure/find-minimum-number-of-coins/)<br>
 
 ---
 
@@ -115,4 +115,4 @@ Sort the items and try to satisfy the child with least size cookie possible.
 {!08_greedy/06_assign_cookies.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/assign-cookies/)<br>
+[LC](https://leetcode.com/problems/assign-cookies/)<br>

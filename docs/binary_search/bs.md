@@ -15,7 +15,7 @@ Explanation For Sample Input 1:
 {!11_binary_search/01_nth_root.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/) [Code360](https://www.naukri.com/code360/problems/1062679?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
+[TUF](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/) [Code360](https://www.naukri.com/code360/problems/1062679?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
 
 ---
 
@@ -44,7 +44,7 @@ Elements which are repeated twice will be at
 {!11_binary_search/03_single_element_in_sorted_array.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) [LC](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)<br>
+[TUF](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) [LC](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)<br>
 
 ---
 
@@ -68,7 +68,7 @@ Output: 4
 {!11_binary_search/04_search_in_rotated_sorted_array.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/) [LC](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)<br>
+[TUF](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/) [LC](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)<br>
 
 ---
 
@@ -112,6 +112,6 @@ Explanation: The maximum possible minimum distance between any two cows will be 
 {!11_binary_search/08_agressive_cows.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/) <br>
+[TUF](https://takeuforward.org/data-structure/aggressive-cows-detailed-solution/) <br>
 
 ---

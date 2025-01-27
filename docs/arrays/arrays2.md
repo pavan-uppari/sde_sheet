@@ -7,7 +7,7 @@
 {!02_arrays_part2/1_rotate_matrix.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/) [LeetCode](https://leetcode.com/problems/rotate-image/)<br>
+[TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/) [LeetCode](https://leetcode.com/problems/rotate-image/)<br>
 
 ---
 
@@ -18,7 +18,7 @@ Links: [TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/)
 ```py
 {!02_arrays_part2/2_merge_overlapping_subintervals.py!}
 ```
-Links: [TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/) [LeetCode](https://leetcode.com/problems/merge-intervals/)<br>
+[TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/) [LeetCode](https://leetcode.com/problems/merge-intervals/)<br>
 
 ---
 
@@ -29,7 +29,7 @@ Links: [TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-inter
 ```py
 {!02_arrays_part2/3_merge_two_sorted_arrays.py!}
 ```
-Links: [TUF](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/) [LeetCode](https://leetcode.com/problems/merge-sorted-array/)<br>
+[TUF](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/) [LeetCode](https://leetcode.com/problems/merge-sorted-array/)<br>
 
 ---
 
@@ -48,7 +48,7 @@ Please check  [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula an
 ```py
 {!02_arrays_part2/4_duplicate_of_n+1_integers.py!}
 ```
-Links: [TUF](https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)<br>
+[TUF](https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)<br>
 
 ---
 
@@ -67,7 +67,7 @@ Please check [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula and
 ```py
 {!02_arrays_part2/5_repeating_and_missing_number.py!}
 ```
-Links: [TUF](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)<br>
+[TUF](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)<br>
 
 ---
 

@@ -11,7 +11,7 @@
 {!06_linked_list_2/1_find_intersection_of_linked_lists.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/) [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/)<br>
+[TUF](https://takeuforward.org/data-structure/find-intersection-of-two-linked-lists/) [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/)<br>
 
 ---
 
@@ -25,7 +25,7 @@ Links: [TUF](https://takeuforward.org/data-structure/find-intersection-of-two-li
 {!06_linked_list_2/2_detect_a_cycle_in_linked_list.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/) [LeetCode](https://leetcode.com/problems/linked-list-cycle/description/)<br>
+[TUF](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-list/) [LeetCode](https://leetcode.com/problems/linked-list-cycle/description/)<br>
 
 ---
 
@@ -42,7 +42,7 @@ Links: [TUF](https://takeuforward.org/data-structure/detect-a-cycle-in-a-linked-
 {!06_linked_list_2/4_check_for_palindrome.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/) [LeetCode](https://leetcode.com/problems/palindrome-linked-list/)<br>
+[TUF](https://takeuforward.org/data-structure/check-if-given-linked-list-is-plaindrome/) [LeetCode](https://leetcode.com/problems/palindrome-linked-list/)<br>
 
 ---
 
@@ -58,4 +58,4 @@ Links: [TUF](https://takeuforward.org/data-structure/check-if-given-linked-list-
 {!06_linked_list_2/5_starting_point_of_loop.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/) [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/)<br>
+[TUF](https://takeuforward.org/data-structure/starting-point-of-loop-in-a-linked-list/) [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/)<br>

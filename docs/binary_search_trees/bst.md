@@ -28,7 +28,7 @@ At each level, for every node, perform 2 steps
 {!20_binary_search_tree/01_populate_next_pointers.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)<br>
+[LC](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)<br>
 
 ---
 
@@ -38,7 +38,7 @@ Links: [LC](https://leetcode.com/problems/populating-next-right-pointers-in-each
 {!20_binary_search_tree/03_convert_srted_array_to_bst.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)<br>
+[LC](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)<br>
 
 ---
 
@@ -52,7 +52,7 @@ Links: [LC](https://leetcode.com/problems/convert-sorted-array-to-binary-search-
 {!20_binary_search_tree/04_bst_from_preorder.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)<br>
+[LC](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)<br>
 
 ---
 
@@ -62,7 +62,7 @@ Links: [LC](https://leetcode.com/problems/construct-binary-search-tree-from-preo
 {!20_binary_search_tree/05_validate_bst.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/validate-binary-search-tree/)<br>
+[LC](https://leetcode.com/problems/validate-binary-search-tree/)<br>
 
 ---
 
@@ -72,7 +72,7 @@ Links: [LC](https://leetcode.com/problems/validate-binary-search-tree/)<br>
 {!20_binary_search_tree/06_lca_in_bst.py!}
 ```
 
-Links: [LC](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)<br>
+[LC](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)<br>
 
 ---
 
@@ -99,6 +99,6 @@ Output: 4 9
 {!20_binary_search_tree/07_inorder_successor_predecessor.py!}
 ```
 
-Links: [GFG](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)<br>
+[GFG](https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1)<br>
 
 ---

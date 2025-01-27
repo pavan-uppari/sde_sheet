@@ -14,7 +14,7 @@
     --8<-- "01_arrays/1_set_matrix_zeroes.rs"
     ```
 
-Links: [TUF](https://takeuforward.org/data-structure/set-matrix-zero/) [LC](https://leetcode.com/problems/set-matrix-zeroes/)<br>
+[TUF](https://takeuforward.org/data-structure/set-matrix-zero/) [LC](https://leetcode.com/problems/set-matrix-zeroes/)<br>
 
 ---
 
@@ -30,37 +30,57 @@ Coming Soon
 Given the number of rows n. Print the first n rows of Pascal’s triangle..<br>
 ![image](https://upload.wikimedia.org/wikipedia/commons/0/0d/PascalTriangleAnimated2.gif)
 
-```py
-{!01_arrays/2_pascals_triangle.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "01_arrays/2_pascals_triangle.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "01_arrays/2_pascals_triangle.rs"
+    ```
 
-Links: [TUF](https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/) [LeetCode](https://leetcode.com/problems/pascals-triangle/)<br>
+[TUF](https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/) [LeetCode](https://leetcode.com/problems/pascals-triangle/)<br>
 
 ---
 
 ## Kadanes Algorithm
 **❓**: Given an integer array arr, find the contiguous subarray (containing at least one number) which
 has the largest sum and returns its sum<br>
-```py
-{!01_arrays/4_kadanes_algorithm.py!}
-```
-Links: [TUF](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/) [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+=== "🐍"
+    ```py
+    --8<-- "01_arrays/4_kadanes_algorithm.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "01_arrays/4_kadanes_algorithm.rs"
+    ```
+[TUF](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/) [LeetCode](https://leetcode.com/problems/maximum-subarray/)
 
 ---
 
 ## Sort list Of 0s,1s,2s
 **❓**: Given an array consisting of only 0s, 1s, and 2s. Write a program to in-place sort the array without using inbuilt sort functions. ( Expected: Single pass-O(N) and constant space)<br>
-```py
-{!01_arrays/5_sort_list_of_zeros_ones_twos.py!}
-```
-Links: [TUF](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/) [LeetCode](https://leetcode.com/problems/sort-colors/)
+=== "🐍"
+    ```py
+    --8<-- "01_arrays/5_sort_list_of_zeroes_ones_twos.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "01_arrays/5_sort_list_of_zeroes_ones_twos.rs"
+    ```
+[TUF](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/) [LeetCode](https://leetcode.com/problems/sort-colors/)
 
 ---
 
 ## Stock Buy and Sell
 
 **❓**: You are given an array of prices where prices[i] is the price of a given stock on an ith day. You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock. Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0.<br>
-```py
-{!01_arrays/6_stock_buy_and_sell.py!}
-```
-Links: [TUF](https://takeuforward.org/data-structure/stock-buy-and-sell/) [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+=== "🐍"
+    ```py
+    --8<-- "01_arrays/6_stock_buy_and_sell.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "01_arrays/6_stock_buy_and_sell.rs"
+    ```
+[TUF](https://takeuforward.org/data-structure/stock-buy-and-sell/) [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)

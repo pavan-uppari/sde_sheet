@@ -14,7 +14,7 @@ BFS
 {!18_binary_tree_ii/01_level_order_traversal.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/) [LC](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)<br>
+[TUF](https://takeuforward.org/data-structure/level-order-traversal-of-a-binary-tree/) [LC](https://leetcode.com/problems/binary-tree-level-order-traversal/description/)<br>
 
 ---
 
@@ -30,7 +30,7 @@ Output: 3
 {!18_binary_tree_ii/02_height_of_bt.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/) [LC](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)<br>
+[TUF](https://takeuforward.org/data-structure/maximum-depth-of-a-binary-tree/) [LC](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/)<br>
 
 ---
 
@@ -47,7 +47,7 @@ Explanation: 3 is the length of the path [4,2,1,3] or [5,2,1,3].
 {!18_binary_tree_ii/03_diameter_of_bt.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/) [LC](https://leetcode.com/problems/diameter-of-binary-tree/)<br>
+[TUF](https://takeuforward.org/data-structure/calculate-the-diameter-of-a-binary-tree/) [LC](https://leetcode.com/problems/diameter-of-binary-tree/)<br>
 
 ---
 
@@ -61,7 +61,7 @@ A height-balanced binary tree is a binary tree in which the depth of the two sub
 {!18_binary_tree_ii/04_balanced_bt.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/) [LC](https://leetcode.com/problems/balanced-binary-tree/)<br>
+[TUF](https://takeuforward.org/data-structure/check-if-the-binary-tree-is-balanced-binary-tree/) [LC](https://leetcode.com/problems/balanced-binary-tree/)<br>
 
 ---
 
@@ -82,7 +82,7 @@ Explanation: The LCA of nodes 5 and 1 is 3.
 {!18_binary_tree_ii/05_lca.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/) [LC](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)<br>
+[TUF](https://takeuforward.org/data-structure/lowest-common-ancestor-for-two-given-nodes/) [LC](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/)<br>
 
 ---
 
@@ -92,7 +92,7 @@ Links: [TUF](https://takeuforward.org/data-structure/lowest-common-ancestor-for-
 {!18_binary_tree_ii/06_identical_trees.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/check-if-two-trees-are-identical/) [LC](https://leetcode.com/problems/same-tree/)<br>
+[TUF](https://takeuforward.org/data-structure/check-if-two-trees-are-identical/) [LC](https://leetcode.com/problems/same-tree/)<br>
 
 ---
 
@@ -112,7 +112,7 @@ Output: [[3],[20,9],[15,7]]
 {!18_binary_tree_ii/07_zig_zag_traversal.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/) [LC](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)<br>
+[TUF](https://takeuforward.org/data-structure/zig-zag-traversal-of-binary-tree/) [LC](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)<br>
 
 ---
 
@@ -134,6 +134,6 @@ Output: Boundary Traversal: [1, 2, 3, 4, 5, 6, 10, 11, 9, 8, 7]
 {!18_binary_tree_ii/08_boundary_traversal.py!}
 ```
 
-Links: [TUF](https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/) [Code360](https://www.naukri.com/code360/problems/boundary-traversal-of-binary-tree_790725?leftPanelTabValue=SUBMISSION)<br>
+[TUF](https://takeuforward.org/data-structure/boundary-traversal-of-a-binary-tree/) [Code360](https://www.naukri.com/code360/problems/boundary-traversal-of-binary-tree_790725?leftPanelTabValue=SUBMISSION)<br>
 
 ---
