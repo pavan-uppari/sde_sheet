@@ -71,7 +71,7 @@ Output:
 {!09_recursion/04_combination_sum_2.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/) [LeetCode](https://leetcode.com/problems/combination-sum-ii/)<br>
+[TUF](https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/) [LC](https://leetcode.com/problems/combination-sum-ii/)<br>
 
 ---
 
@@ -88,7 +88,7 @@ Output: [ ["a","a","b"], ["aa","b"] ]
 {!09_recursion/05_palindrom_paritioning.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/palindrome-partitioning/) [LeetCode](https://leetcode.com/problems/palindrome-partitioning/)<br>
+[TUF](https://takeuforward.org/data-structure/palindrome-partitioning/) [LC](https://leetcode.com/problems/palindrome-partitioning/)<br>
 
 ---
 

@@ -11,7 +11,7 @@
 {!07_linked_list_and_arrays/1_rotate_linked_list.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/rotate-a-linked-list/) [LeetCode](https://leetcode.com/problems/rotate-list/)<br>
+[TUF](https://takeuforward.org/data-structure/rotate-a-linked-list/) [LC](https://leetcode.com/problems/rotate-list/)<br>
 
 ---
 
@@ -32,7 +32,7 @@
 {!07_linked_list_and_arrays/3_3sum.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/) [LeetCode](https://leetcode.com/problems/3sum/)<br>
+[TUF](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/) [LC](https://leetcode.com/problems/3sum/)<br>
 
 ---
 
@@ -73,7 +73,7 @@ At a particular index, amount of water that can be trapped is height - min(prefi
 {!07_linked_list_and_arrays/5_remove_duplicates_from_sorted_array.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/) [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)<br>
+[TUF](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/) [LC](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)<br>
 
 ---
 
@@ -88,4 +88,4 @@ At a particular index, amount of water that can be trapped is height - min(prefi
 {!07_linked_list_and_arrays/6_max_consecutive_ones.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/) [LeetCode](https://leetcode.com/problems/max-consecutive-ones/)<br>
+[TUF](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/) [LC](https://leetcode.com/problems/max-consecutive-ones/)<br>

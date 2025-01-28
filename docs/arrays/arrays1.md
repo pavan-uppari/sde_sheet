@@ -39,7 +39,7 @@ Given the number of rows n. Print the first n rows of Pascal’s triangle..<br>
     --8<-- "01_arrays/2_pascals_triangle.rs"
     ```
 
-[TUF](https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/) [LeetCode](https://leetcode.com/problems/pascals-triangle/)<br>
+[TUF](https://takeuforward.org/data-structure/program-to-generate-pascals-triangle/) [LC](https://leetcode.com/problems/pascals-triangle/)<br>
 
 ---
 
@@ -54,7 +54,7 @@ has the largest sum and returns its sum<br>
     ```rust
     --8<-- "01_arrays/4_kadanes_algorithm.rs"
     ```
-[TUF](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/) [LeetCode](https://leetcode.com/problems/maximum-subarray/)
+[TUF](https://takeuforward.org/data-structure/kadanes-algorithm-maximum-subarray-sum-in-an-array/) [LC](https://leetcode.com/problems/maximum-subarray/)
 
 ---
 
@@ -68,7 +68,7 @@ has the largest sum and returns its sum<br>
     ```rust
     --8<-- "01_arrays/5_sort_list_of_zeroes_ones_twos.rs"
     ```
-[TUF](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/) [LeetCode](https://leetcode.com/problems/sort-colors/)
+[TUF](https://takeuforward.org/data-structure/sort-an-array-of-0s-1s-and-2s/) [LC](https://leetcode.com/problems/sort-colors/)
 
 ---
 
@@ -83,4 +83,4 @@ has the largest sum and returns its sum<br>
     ```rust
     --8<-- "01_arrays/6_stock_buy_and_sell.rs"
     ```
-[TUF](https://takeuforward.org/data-structure/stock-buy-and-sell/) [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+[TUF](https://takeuforward.org/data-structure/stock-buy-and-sell/) [LC](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
