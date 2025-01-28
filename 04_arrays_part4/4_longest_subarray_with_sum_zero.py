@@ -1,13 +1,13 @@
 def solution(nums: list[int]) -> int:
-    d: int[int] = {0: -1}
-    sum = 0
+    d: dict[int, int] = {0: -1}
+    curr_sum = 0
     res = 0
     for i, num in enumerate(nums):
-        sum += num
-        if sum in d:
-            res = max(res, i - d[sum])
+        curr_sum += num
+        if curr_sum in d:
+            res = max(res, i - d[curr_sum])
         else:
-            d[sum] = i
+            d[curr_sum] = i
     return res
 
 
