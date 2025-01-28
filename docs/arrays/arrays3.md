@@ -9,11 +9,15 @@ Simple Maths Equations<br>
 3. From those 2 equations, X and Y can be found out<br>
 
 Time Complexity -> O(n + logm)
-
-```py
-{!03_arrays_part3/1_search_in_2d_matrix.py!}
-```
-[TUF](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/)[LeetCode](https://leetcode.com/problems/search-a-2d-matrix/)<br>
+=== "🐍"
+    ```py
+    --8<-- "03_arrays_part3/1_search_in_2d_matrix.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "03_arrays_part3/1_search_in_2d_matrix.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/search-in-a-sorted-2d-matrix/)[💻](https://leetcode.com/problems/search-a-2d-matrix/)<br>
 
 ---
 
@@ -40,24 +44,30 @@ ans = ans * 36*36
 
 TC - O(logn)<br>
 SC - O(1)
-
-```py
-{!03_arrays_part3/2_pow_x_of_n.py!}
-```
-[TUF](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/)[LeetCode](https://leetcode.com/problems/powx-n/)<br>
+=== "🐍"
+    ```py
+    --8<-- "03_arrays_part3/2_pow_x_of_n.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "03_arrays_part3/2_pow_x_of_n.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/implement-powxn-x-raised-to-the-power-n/)[💻](https://leetcode.com/problems/powx-n/)<br>
 
 ---
 
 ## Majority Element (>n/2 times)
 
 **❓**: Given an array of N integers, write a program to return an element that occurs more than N/2 times in the given array. You may consider that such an element always exists in the array.<br>
-
-
-```py
-{!03_arrays_part3/3_majority_element.py!}
-```
-
-[TUF](ttps://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/) [LeetCode](https://leetcode.com/problems/majority-element/)<br>
+=== "🐍"
+    ```py
+    --8<-- "03_arrays_part3/3_majority_element.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "03_arrays_part3/3_majority_element.rs"
+    ```
+[📘](ttps://takeuforward.org/data-structure/find-the-majority-element-that-occurs-more-than-n-2-times/) [💻](https://leetcode.com/problems/majority-element/)<br>
 
 
 
@@ -76,11 +86,15 @@ Same as previous majority element algo. The difference is we apply the same algo
 
 Time - O(2n)<br>
 Space - O(1)
-
-```py
-{!03_arrays_part3/4_majority_element_2.py!}
-```
-[TUF](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/) [LeetCode](https://leetcode.com/problems/majority-element-ii/)<br>
+=== "🐍"
+    ```py
+    --8<-- "03_arrays_part3/4_majority_element_2.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "03_arrays_part3/4_majority_element_2.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/majority-elementsn-3-times-find-the-elements-that-appears-more-than-n-3-times-in-the-array/) [💻](https://leetcode.com/problems/majority-element-ii/)<br>
 
 ---
 
@@ -89,12 +103,15 @@ Space - O(1)
 **❓**: Given a matrix m X n, count paths from left-top to the right bottom of a matrix with the constraints that from each cell you can either only move to the rightward direction or the downward direction.<br>
 
 ![image](https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png)
-
-```py
-{!03_arrays_part3/5_grid_unique_paths.py!}
-```
-
-[TUF](https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/) [LeetCode](https://leetcode.com/problems/unique-paths/)<br>
+=== "🐍"
+    ```py
+    --8<-- "03_arrays_part3/5_grid_unique_paths.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "03_arrays_part3/5_grid_unique_paths.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/grid-unique-paths-count-paths-from-left-top-to-the-right-bottom-of-a-matrix/) [💻](https://leetcode.com/problems/unique-paths/)<br>
 
 
 ---

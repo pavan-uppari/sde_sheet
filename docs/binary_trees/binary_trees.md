@@ -4,7 +4,7 @@
 {!17_binary_tree/01_inorder.py!}
 ```
 
-[LC](https://leetcode.com/problems/binary-tree-inorder-traversal/)<br>
+[💻](https://leetcode.com/problems/binary-tree-inorder-traversal/)<br>
 
 ---
 
@@ -14,7 +14,7 @@
 {!17_binary_tree/02_preorder.py!}
 ```
 
-[LC](https://leetcode.com/problems/binary-tree-preorder-traversal/)<br>
+[💻](https://leetcode.com/problems/binary-tree-preorder-traversal/)<br>
 
 ---
 
@@ -24,7 +24,7 @@
 {!17_binary_tree/03_postorder.py!}
 ```
 
-[LC](https://leetcode.com/problems/binary-tree-postorder-traversal/)<br>
+[💻](https://leetcode.com/problems/binary-tree-postorder-traversal/)<br>
 
 ---
 
@@ -46,7 +46,7 @@ Use BFS, result is list of first element in each level of binary tree.
 {!17_binary_tree/06_left_view.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/right-left-view-of-binary-tree/) [GFG](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)<br>
+[📘](https://takeuforward.org/data-structure/right-left-view-of-binary-tree/) [💻](https://www.geeksforgeeks.org/problems/left-view-of-binary-tree/1)<br>
 
 ---
 
@@ -65,7 +65,7 @@ For the above tree, the output should be 4 2 5 3.
 {!17_binary_tree/07_bottom_view.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/) [GFG](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)<br>
+[📘](https://takeuforward.org/data-structure/bottom-view-of-a-binary-tree/) [💻](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)<br>
 
 ---
 
@@ -78,7 +78,7 @@ Same as bottom view, result is list of first elements in each level.
 {!17_binary_tree/08_top_view.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/top-view-of-a-binary-tree/) [GFG](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)<br>
+[📘](https://takeuforward.org/data-structure/top-view-of-a-binary-tree/) [💻](https://www.geeksforgeeks.org/problems/top-view-of-binary-tree/1)<br>
 
 ---
 
@@ -101,7 +101,7 @@ Output: [[4],[2],[1,5,6],[3],[7]]
 {!17_binary_tree/10_vertical_order.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/) [LC](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)<br>
+[📘](https://takeuforward.org/data-structure/vertical-order-traversal-of-binary-tree/) [💻](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)<br>
 
 ---
 
@@ -125,7 +125,7 @@ Use DFS
 {!17_binary_tree/11_root_to_node_path.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/) [GFG](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)<br>
+[📘](https://takeuforward.org/data-structure/print-root-to-node-path-in-a-binary-tree/) [💻](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)<br>
 
 ---
 
@@ -150,6 +150,6 @@ Explanation: The maximum width exists in the fourth level with length 7 (6,null,
 {!17_binary_tree/12_max_width.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/) [LC](https://leetcode.com/problems/maximum-width-of-binary-tree/)<br>
+[📘](https://takeuforward.org/data-structure/maximum-width-of-a-binary-tree/) [💻](https://leetcode.com/problems/maximum-width-of-binary-tree/)<br>
 
 ---

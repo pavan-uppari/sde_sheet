@@ -6,7 +6,7 @@
 {!04_linked_list/1_reverse_a_linked_list.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/reverse-a-linked-list/) [LeetCode](https://leetcode.com/problems/reverse-linked-list/)<br>
+[📘](https://takeuforward.org/data-structure/reverse-a-linked-list/) [💻](https://leetcode.com/problems/reverse-linked-list/)<br>
 
 ---
 
@@ -21,7 +21,7 @@
 {!04_linked_list/2_middle_of_linked_list.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/) [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/description/)<br>
+[📘](https://takeuforward.org/data-structure/find-middle-element-in-a-linked-list/) [💻](https://leetcode.com/problems/middle-of-the-linked-list/description/)<br>
 
 ---
 
@@ -38,7 +38,7 @@
 {!04_linked_list/4_remove_nth_node_from_end.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/) [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)<br>
+[📘](https://takeuforward.org/data-structure/remove-n-th-node-from-the-end-of-a-linked-list/) [💻](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)<br>
 
 ---
 
@@ -53,7 +53,7 @@
 {!04_linked_list/5_add_2_numbers.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/) [LeetCode](https://leetcode.com/problems/add-two-numbers/)<br>
+[📘](https://takeuforward.org/data-structure/add-two-numbers-represented-as-linked-lists/) [💻](https://leetcode.com/problems/add-two-numbers/)<br>
 
 ---
 
@@ -67,4 +67,4 @@ Replace the node value with next node value and make next node as next node's ne
 {!04_linked_list/6_delete_the_given_node.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/delete-given-node-in-a-linked-list-o1-approach/) [LeetCode](https://leetcode.com/problems/delete-node-in-a-linked-list/)<br>
+[📘](https://takeuforward.org/data-structure/delete-given-node-in-a-linked-list-o1-approach/) [💻](https://leetcode.com/problems/delete-node-in-a-linked-list/)<br>

@@ -24,7 +24,7 @@ Output:
 {!10_recusion_and_backtracking/01_permutations.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/) [LC](https://leetcode.com/problems/permutations/description/)<br>
+[📘](https://takeuforward.org/data-structure/print-all-permutations-of-a-string-array/) [💻](https://leetcode.com/problems/permutations/description/)<br>
 
 ---
 
@@ -47,7 +47,7 @@ Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 {!10_recusion_and_backtracking/02_n_queens.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/) [LC](https://leetcode.com/problems/n-queens/description/)<br>
+[📘](https://takeuforward.org/data-structure/n-queen-problem-return-all-distinct-solutions-to-the-n-queens-puzzle/) [💻](https://leetcode.com/problems/n-queens/description/)<br>
 
 ---
 
@@ -62,7 +62,7 @@ Output: [[".Q..","...Q","Q...","..Q."],["..Q.","Q...","...Q",".Q.."]]
 {!10_recusion_and_backtracking/03_suduko.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/sudoku-solver/) [LC](https://leetcode.com/problems/sudoku-solver/)<br>
+[📘](https://takeuforward.org/data-structure/sudoku-solver/) [💻](https://leetcode.com/problems/sudoku-solver/)<br>
 
 ---
 
@@ -97,7 +97,7 @@ Output: 1
 {!10_recusion_and_backtracking/04_m_coloring.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/m-coloring-problem/)<br>
+[📘](https://takeuforward.org/data-structure/m-coloring-problem/)<br>
 
 ---
 
@@ -123,7 +123,7 @@ Output: DDRDRR DRDDRR
 {!10_recusion_and_backtracking/05_rat_in_maze.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/rat-in-a-maze/) [GFG](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)<br>
+[📘](https://takeuforward.org/data-structure/rat-in-a-maze/) [💻](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)<br>
 
 ---
 
@@ -151,6 +151,6 @@ god is now here now here
 {!10_recusion_and_backtracking/06_word_break.py!}
 ```
 
-[Code360](https://www.naukri.com/code360/problems/983635?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
+[💻](https://www.naukri.com/code360/problems/983635?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
 
 ---

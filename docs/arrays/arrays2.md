@@ -2,34 +2,45 @@
 
 **❓**: Given a matrix, your task is to rotate the matrix 90 degrees clockwise.<br>
 
-
-```py
-{!02_arrays_part2/1_rotate_matrix.py!}
-```
-
-[TUF](https://takeuforward.org/data-structure/rotate-image-by-90-degree/) [LeetCode](https://leetcode.com/problems/rotate-image/)<br>
+=== "🐍"
+    ```py
+    --8<-- "02_arrays_part2/1_rotate_matrix.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "02_arrays_part2/1_rotate_matrix.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/rotate-image-by-90-degree/) [💻](https://leetcode.com/problems/rotate-image/)<br>
 
 ---
 
 ## Merge Overlapping Sub Intervals
 
 **❓**: Given an array of intervals, merge all the overlapping intervals and return an array of non-overlapping intervals.<br>
-
-```py
-{!02_arrays_part2/2_merge_overlapping_subintervals.py!}
-```
-[TUF](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/) [LeetCode](https://leetcode.com/problems/merge-intervals/)<br>
+=== "🐍"
+    ```py
+    --8<-- "02_arrays_part2/2_merge_overlapping_subintervals.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "02_arrays_part2/2_merge_overlapping_subintervals.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/merge-overlapping-sub-intervals/) [💻](https://leetcode.com/problems/merge-intervals/)<br>
 
 ---
 
 ## Merge 2 sorted arrays without extra space
 
 **❓**: Given two sorted arrays arr1[] and arr2[] of sizes n and m in non-decreasing order. Merge them in sorted order. Modify arr1 so that it contains the first N elements and modify arr2 so that it contains the last M elements.<br>
-
-```py
-{!02_arrays_part2/3_merge_two_sorted_arrays.py!}
-```
-[TUF](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/) [LeetCode](https://leetcode.com/problems/merge-sorted-array/)<br>
+=== "🐍"
+    ```py
+    --8<-- "02_arrays_part2/3_merge_two_sorted_arrays.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "02_arrays_part2/3_merge_two_sorted_arrays.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/merge-two-sorted-arrays-without-extra-space/) [💻](https://leetcode.com/problems/merge-sorted-array/)<br>
 
 ---
 
@@ -44,11 +55,15 @@ Floyd's Cycle Detection<br>
 3. After they colloide, if we reset first pointer, and move that and slow pointer at a time, they will colloide at our result.<br>
 
 Please check  [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula and intuition<br>
-
-```py
-{!02_arrays_part2/4_duplicate_of_n+1_integers.py!}
-```
-[TUF](https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/) [LeetCode](https://leetcode.com/problems/find-the-duplicate-number/)<br>
+=== "🐍"
+    ```py
+    --8<-- "02_arrays_part2/4_duplicate_of_n+1_integers.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "02_arrays_part2/4_duplicate_of_n+1_integers.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/find-the-duplicate-in-an-array-of-n1-integers/) [💻](https://leetcode.com/problems/find-the-duplicate-number/)<br>
 
 ---
 
@@ -63,11 +78,15 @@ Simple Maths Equations<br>
 3. From those 2 equations, X and Y can be found out<br>
 
 Please check [here](https://www.youtube.com/watch?v=wjYnzkAhcNk) for formula and intuition<br>
-
-```py
-{!02_arrays_part2/5_repeating_and_missing_number.py!}
-```
-[TUF](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)<br>
+=== "🐍"
+    ```py
+    --8<-- "02_arrays_part2/5_repeating_and_missing_number.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "02_arrays_part2/5_repeating_and_missing_number.rs"
+    ```
+[📘](https://takeuforward.org/data-structure/find-the-repeating-and-missing-numbers/)<br>
 
 ---
 

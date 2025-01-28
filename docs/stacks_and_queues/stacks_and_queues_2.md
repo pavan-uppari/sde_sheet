@@ -8,7 +8,7 @@
 {!14_stacks_and_queues_2/01_nse.py!}
 ```
 
-[LC](https://www.interviewbit.com/problems/nearest-smaller-element/)<br>
+[💻](https://www.interviewbit.com/problems/nearest-smaller-element/)<br>
 
 ---
 
@@ -30,7 +30,7 @@ For every height, possible rectangle width is `nse-pse-1`
 {!14_stacks_and_queues_2/04_largest_rectangle_in_histogram.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/) [LC](https://leetcode.com/problems/largest-rectangle-in-histogram/)<br>
+[📘](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/) [💻](https://leetcode.com/problems/largest-rectangle-in-histogram/)<br>
 
 ---
 
@@ -60,7 +60,7 @@ For each window of size k=3, we find the maximum element in the window and add i
 {!14_stacks_and_queues_2/05_sliding_window_maximum.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/sliding-window-maximum/) [LC](https://leetcode.com/problems/sliding-window-maximum/description/)<br>
+[📘](https://takeuforward.org/data-structure/sliding-window-maximum/) [💻](https://leetcode.com/problems/sliding-window-maximum/description/)<br>
 
 ---
 
@@ -80,7 +80,7 @@ Result: [null, null, null, null, -3, null, 0, -2]
 {!14_stacks_and_queues_2/06_min_stack.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/) [LC](https://leetcode.com/problems/min-stack/description/)<br>
+[📘](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/) [💻](https://leetcode.com/problems/min-stack/description/)<br>
 
 ---
 
@@ -109,7 +109,7 @@ Use BFS
 {!14_stacks_and_queues_2/07_rotten_oranges.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/) [LC](https://leetcode.com/problems/rotting-oranges/description/)<br>
+[📘](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/) [💻](https://leetcode.com/problems/rotting-oranges/description/)<br>
 
 ---
 
@@ -140,7 +140,7 @@ Find pge
 {!14_stacks_and_queues_2/08_stock_span.py!}
 ```
 
-[LC](https://leetcode.com/problems/online-stock-span/description/)<br>
+[💻](https://leetcode.com/problems/online-stock-span/description/)<br>
 
 ---
 
