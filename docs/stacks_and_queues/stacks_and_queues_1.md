@@ -22,7 +22,7 @@ hence they are balanced.
 {!13_stacks_and_queues/balanced_paranthesis.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/check-for-balanced-parentheses/) [LC](https://leetcode.com/problems/valid-parentheses/)<br>
+[📘](https://takeuforward.org/data-structure/check-for-balanced-parentheses/) [💻](https://leetcode.com/problems/valid-parentheses/)<br>
 
 ---
 
@@ -53,6 +53,6 @@ Explanation: The next greater element for each value of nums1 is as follows:
 {!13_stacks_and_queues/next_greater_element.py!}
 ```
 
-[TUF](https://takeuforward.org/data-structure/next-greater-element-using-stack/) [LC](https://leetcode.com/problems/next-greater-element-i/)<br>
+[📘](https://takeuforward.org/data-structure/next-greater-element-using-stack/) [💻](https://leetcode.com/problems/next-greater-element-i/)<br>
 
 ---

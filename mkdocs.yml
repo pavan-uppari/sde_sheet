@@ -33,6 +33,12 @@ theme:
     - toc.follow
   # logo: 'tuf_logo-removebg-preview.png'
   # favicon: 'favicon.png'
+extra:
+  social:
+  - icon: fontawesome/brands/linkedin
+    link: https://www.linkedin.com/in/pavanuppari/
+  - icon: fontawesome/brands/github
+    link: https://github.com/pavan-uppari
 repo_name: pavan-uppari/sde_sheet
 repo_url: https://github.com/pavan-uppari/sde_sheet
 markdown_extensions:

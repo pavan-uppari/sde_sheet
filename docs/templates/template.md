@@ -10,6 +10,6 @@ Input
 {!path!}
 ```
 
-[TUF](link) [LC](link)<br>
+[📘](link) [💻](link)<br>
 
 ---
