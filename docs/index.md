@@ -9,7 +9,7 @@ Welcome to Striver SDE Sheet 🤗.
 📘 - TUF link  
 💻 - Platform link
 
-#### Keyboard Shortcuts:  
+#### Keyboard Shortcuts
 `s` or`/` - Search  
 `n` - next page  
 `p` - previous page  
