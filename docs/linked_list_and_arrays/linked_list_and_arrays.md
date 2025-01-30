@@ -27,11 +27,14 @@
 2. Iterate through array. For every iteration, perform binary search approach<br>
 3. Use left and right pointers. If sum is greater than zero, increase left else decrease right.<br>
 4. If sum is zero, add items to res<br>
-
-```py
-{!07_linked_list_and_arrays/3_3sum.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "07_linked_list_and_arrays/3_3sum.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "07_linked_list_and_arrays/3_3sum.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/3-sum-find-triplets-that-add-up-to-a-zero/) [💻](https://leetcode.com/problems/3sum/)<br>
 
 ---
@@ -52,11 +55,14 @@ Explanation: The above elevation map (black section) is represented by array [0,
 
 **🧠**:  
 At a particular index, amount of water that can be trapped is height - min(prefix_max_height, suffix_max_height)
-
-```py
-{!07_linked_list_and_arrays/4_trapping_rainwater.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "07_linked_list_and_arrays/4_trapping_rainwater.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "07_linked_list_and_arrays/4_trapping_rainwater.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/trapping-rainwater/) [💻](https://leetcode.com/problems/trapping-rain-water/description/)<br>
 
 ---
@@ -68,11 +74,14 @@ At a particular index, amount of water that can be trapped is height - min(prefi
 1. Use a curr pointer. Till curr pointer elements are correct<br>
 2. Iterate through array and find whether current elements is same as previous. If not, put that value in curr pointer and increase curr pointer value<br>
 3. The required length is till curr<br>
-
-```py
-{!07_linked_list_and_arrays/5_remove_duplicates_from_sorted_array.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "07_linked_list_and_arrays/5_remove_duplicates_from_sorted_array.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "07_linked_list_and_arrays/5_remove_duplicates_from_sorted_array.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/remove-duplicates-in-place-from-sorted-array/) [💻](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)<br>
 
 ---
@@ -83,9 +92,12 @@ At a particular index, amount of water that can be trapped is height - min(prefi
 **🧠**:<br>
 1. Iterate through array, it element is 1, increment counter<br>
 2. Else, res is maximum of res and curr<br>
-
-```py
-{!07_linked_list_and_arrays/6_max_consecutive_ones.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "07_linked_list_and_arrays/6_max_consecutive_ones.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "07_linked_list_and_arrays/6_max_consecutive_ones.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/count-maximum-consecutive-ones-in-the-array/) [💻](https://leetcode.com/problems/max-consecutive-ones/)<br>
