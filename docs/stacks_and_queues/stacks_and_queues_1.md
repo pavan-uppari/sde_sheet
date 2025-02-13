@@ -17,10 +17,14 @@ hence they are balanced.
 3. If stack is empty or top element is a mismatch, return False.  
 4. Else pop the top element and continue.  
 5. At the end of iteration, stack should be empty.  
-
-```py
-{!13_stacks_and_queues/balanced_paranthesis.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "13_stacks_and_queues/balanced_paranthesis.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "13_stacks_and_queues/balanced_paranthesis.rs"
+    ```
 
 [📘](https://takeuforward.org/data-structure/check-for-balanced-parentheses/) [💻](https://leetcode.com/problems/valid-parentheses/)<br>
 
@@ -48,10 +52,14 @@ Explanation: The next greater element for each value of nums1 is as follows:
 1. Use stack to find nge.  
 2. Store nge as hash map because we need nge for corresponding elements from nums1.  
 3. Return result array using nge map.
-
-```py
-{!13_stacks_and_queues/next_greater_element.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "13_stacks_and_queues/next_greater_element.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "13_stacks_and_queues/next_greater_element.rs"
+    ```
 
 [📘](https://takeuforward.org/data-structure/next-greater-element-using-stack/) [💻](https://leetcode.com/problems/next-greater-element-i/)<br>
 
