@@ -3,10 +3,14 @@
 **🧠**:  
 1. Use stack. Iterate through items and remove items from stack whose value is greater than or equal to current num.   
 2. Next smaller element is element present in top of stack. If stack is empty, there is not next smaller element.  
-
-```py
-{!14_stacks_and_queues_2/01_nse.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "14_stacks_and_queues_2/01_nse.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "14_stacks_and_queues_2/01_nse.rs"
+    ```
 
 [💻](https://www.interviewbit.com/problems/nearest-smaller-element/)<br>
 
@@ -25,10 +29,14 @@ The largest rectangle is shown in the red area, which has an area = 10 units.
 
 **🧠**:  
 For every height, possible rectangle width is `nse-pse-1`
-
-```py
-{!14_stacks_and_queues_2/04_largest_rectangle_in_histogram.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "14_stacks_and_queues_2/04_largest_rectangle_in_histogram.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "14_stacks_and_queues_2/04_largest_rectangle_in_histogram.rs"
+    ```
 
 [📘](https://takeuforward.org/data-structure/area-of-largest-rectangle-in-histogram/) [💻](https://leetcode.com/problems/largest-rectangle-in-histogram/)<br>
 
@@ -55,10 +63,14 @@ Window position                   Max
  4  0  -1  3  5 [3  6  8]          - 8  
 
 For each window of size k=3, we find the maximum element in the window and add it to our output array.
-
-```py
-{!14_stacks_and_queues_2/05_sliding_window_maximum.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "14_stacks_and_queues_2/05_sliding_window_maximum.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "14_stacks_and_queues_2/05_sliding_window_maximum.rs"
+    ```
 
 [📘](https://takeuforward.org/data-structure/sliding-window-maximum/) [💻](https://leetcode.com/problems/sliding-window-maximum/description/)<br>
 
@@ -75,10 +87,14 @@ Input Format:["MinStack", "push", "push", "push", "getMin", "pop", "top", "getMi
 ]
 
 Result: [null, null, null, null, -3, null, 0, -2]
-
-```py
-{!14_stacks_and_queues_2/06_min_stack.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "14_stacks_and_queues_2/06_min_stack.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "14_stacks_and_queues_2/06_min_stack.rs"
+    ```
 
 [📘](https://takeuforward.org/data-structure/implement-min-stack-o2n-and-on-space-complexity/) [💻](https://leetcode.com/problems/min-stack/description/)<br>
 
@@ -104,10 +120,14 @@ Output: 4
 
 **🧠**:  
 Use BFS
-
-```py
-{!14_stacks_and_queues_2/07_rotten_oranges.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "14_stacks_and_queues_2/07_rotten_oranges.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "14_stacks_and_queues_2/07_rotten_oranges.rs"
+    ```
 
 [📘](https://takeuforward.org/data-structure/rotten-oranges-min-time-to-rot-all-oranges-bfs/) [💻](https://leetcode.com/problems/rotting-oranges/description/)<br>
 
@@ -135,10 +155,14 @@ Output
 
 **🧠**:  
 Find pge
-
-```py
-{!14_stacks_and_queues_2/08_stock_span.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "14_stacks_and_queues_2/08_stock_span.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "14_stacks_and_queues_2/08_stock_span.rs"
+    ```
 
 [💻](https://leetcode.com/problems/online-stock-span/description/)<br>
 
@@ -156,9 +180,13 @@ Input: M = [ [0, 1, 1, 0], [0, 0, 0, 0], [1, 1, 0, 0], [0, 1, 1, 0] ]
 Output: 1
 
 Explanation: Person 1 does not know anyone and is known by persons 0, 2, and 3. Therefore, person 1 is the celebrity.
-
-```py
-{!14_stacks_and_queues_2/10_celebrity.py!}
-```
+=== "🐍"
+    ```py
+    --8<-- "14_stacks_and_queues_2/10_celebrity.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "14_stacks_and_queues_2/10_celebrity.rs"
+    ```
 
 ---
