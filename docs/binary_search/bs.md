@@ -10,11 +10,14 @@ Output:
 
 Explanation For Sample Input 1:
 3rd Root of 27 is 3, as (3)^3 equals 27.
-
-```py
-{!11_binary_search/01_nth_root.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "11_binary_search/01_nth_root.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "11_binary_search/01_nth_root.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/nth-root-of-a-number-using-binary-search/) [💻](https://www.naukri.com/code360/problems/1062679?topList=striver-sde-sheet-problems&leftPanelTabValue=PROBLEM)<br>
 
 ---
@@ -39,11 +42,14 @@ Output: 2
 Elements which are repeated twice will be at   
 1. odd, even indices to left of target  
 2. even, odd indices to right of target
-
-```py
-{!11_binary_search/03_single_element_in_sorted_array.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "11_binary_search/03_single_element_in_sorted_array.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "11_binary_search/03_single_element_in_sorted_array.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/search-single-element-in-a-sorted-array/) [💻](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)<br>
 
 ---
@@ -63,11 +69,14 @@ Output: 4
 **🧠**:  
 1. On doing binary search, atleast one of left or right half will be sorted.  
 2. Eliminate one of them using that property.
-
-```py
-{!11_binary_search/04_search_in_rotated_sorted_array.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "11_binary_search/04_search_in_rotated_sorted_array.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "11_binary_search/04_search_in_rotated_sorted_array.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/search-element-in-a-rotated-sorted-array/) [💻](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)<br>
 
 ---
