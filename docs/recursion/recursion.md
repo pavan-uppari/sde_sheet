@@ -5,11 +5,14 @@
 Input:  N = 3, arr[] = {5,2,1}  
 Output: 0,1,2,3,5,6,7,8  
 Explanation: We have to find all the subset’s sum and print them.in this case the generated subsets are [ [], [1], [2], [2,1], [5], [5,1], [5,2]. [5,2,1],so the sums we get will be  0,1,2,3,5,6,7,8.  
-
-```py
-{!09_recursion/01_subset_sums.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "09_recursion/01_subset_sums.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "09_recursion/01_subset_sums.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/subset-sum-sum-of-all-subsets/) [💻](https://www.geeksforgeeks.org/problems/subset-sums2234/1)<br>
 
 ---
@@ -21,11 +24,14 @@ Explanation: We have to find all the subset’s sum and print them.in this case 
 Input: [1,2,2]  
 Output: [[ ],[1],[1,2],[1,2,2],[2],[2,2]]  
 Explanation: We can have subsets ranging from  length 0 to 3. which are listed above. Also the subset [1,2] appears twice but is printed only once as we require only unique subsets.   
-
-```py
-{!09_recursion/02_subset_sums_2.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "09_recursion/02_subset_sums_2.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "09_recursion/02_subset_sums_2.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/) [💻](https://leetcode.com/problems/subsets-ii/)<br>
 
 ---
@@ -46,11 +52,14 @@ Output: [[2,2,3],[7]]
 Explanation: 2 and 3 are candidates, and 2 + 2 + 3 = 7. Note that 2 can be used multiple times.
              7 is a candidate, and 7 = 7.
              These are the only two combinations. 
-
-```py
-{!09_recursion/03_combination_sum_1.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "09_recursion/03_combination_sum_1.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "09_recursion/03_combination_sum_1.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/combination-sum-1/) [💻](https://leetcode.com/problems/combination-sum/)<br>
 
 ---
@@ -67,10 +76,14 @@ Input: candidates = [10,1,2,7,6,1,5], target = 8
 Output: 
 [[1,1,6],[1,2,5],[1,7],[2,6]]
 
-```py
-{!09_recursion/04_combination_sum_2.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "09_recursion/04_combination_sum_2.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "09_recursion/04_combination_sum_2.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/combination-sum-ii-find-all-unique-combinations/) [💻](https://leetcode.com/problems/combination-sum-ii/)<br>
 
 ---
@@ -83,11 +96,14 @@ Output:
 Input: s = “aab”
 
 Output: [ ["a","a","b"], ["aa","b"] ]	
-
-```py
-{!09_recursion/05_palindrome_partitioning.py!}
-```
-
+=== "🐍"
+    ```py
+    --8<-- "09_recursion/05_palindrome_partitioning.py"
+    ```
+=== "🦀"
+    ```rust
+    --8<-- "09_recursion/05_palindrome_partitioning.rs"
+    ```
 [📘](https://takeuforward.org/data-structure/palindrome-partitioning/) [💻](https://leetcode.com/problems/palindrome-partitioning/)<br>
 
 ---
