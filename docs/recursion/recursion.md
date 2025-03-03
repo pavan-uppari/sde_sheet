@@ -23,7 +23,7 @@ Output: [[ ],[1],[1,2],[1,2,2],[2],[2,2]]
 Explanation: We can have subsets ranging from  length 0 to 3. which are listed above. Also the subset [1,2] appears twice but is printed only once as we require only unique subsets.   
 
 ```py
-{!09_recursion/01_subset_sums.py!}
+{!09_recursion/02_subset_sums_2.py!}
 ```
 
 [📘](https://takeuforward.org/data-structure/subset-ii-print-all-the-unique-subsets/) [💻](https://leetcode.com/problems/subsets-ii/)<br>
@@ -85,7 +85,7 @@ Input: s = “aab”
 Output: [ ["a","a","b"], ["aa","b"] ]	
 
 ```py
-{!09_recursion/05_palindrom_paritioning.py!}
+{!09_recursion/05_palindrome_partitioning.py!}
 ```
 
 [📘](https://takeuforward.org/data-structure/palindrome-partitioning/) [💻](https://leetcode.com/problems/palindrome-partitioning/)<br>
